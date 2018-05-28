@@ -1,5 +1,9 @@
 p {
-    margin: auto 0 auto 0;
+    margin: auto 0 1em 0;
+}
+
+li {
+    margin-bottom: 1em;
 }
 
 .display {
@@ -22,6 +26,7 @@ p {
     align-items: center;
     display: flex;
     justify-content: center;
+    margin-top: 1em;
     position: relative;
 }
 
@@ -37,8 +42,9 @@ p {
     margin-bottom: 20px;
 }
 
-.map-section:last-of-type {
+.display .map-section {
     margin-bottom: 0;
+    margin-top: 0;
 }
 
 .map-container {
@@ -48,11 +54,11 @@ p {
     width: 550px;
 }
 
-.map {
+.map, .stop {
     flex: 1;
     width: 100%;
 }
 
-img.map {
-    border: 2px solid black;
+img.map, img.stop {
+    border: 1px solid black;
 }

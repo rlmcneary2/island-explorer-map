@@ -28,7 +28,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0">
 	<meta name="author" content="Richard L. McNeary II">
 	<meta name="copyright" content="Richard L. McNeary II">
-	<meta name="keywords" content="rlmcneary2, Rich McNeary, Richard L. McNeary II, limnous, Acadia, Mount Desert, Island Explorer, map">
+	<meta name="keywords" content="rlmcneary2, Rich McNeary, Richard L. McNeary II, limnous, Acadia, Mount Desert, Island Explorer, map, bus route, Island Explorer Map">
 	<link rel="icon" href="docs/16x16.png">
 	<link rel="icon" href="docs/192x192.png">
 	<link rel="icon" href="docs/32x32.png">
@@ -38,28 +38,55 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <body>
 	<main class="content">
+		<h1>Island Explorer Map</h1>
 		<p>A "tube-style" map that displays information about the Island Explorer bus routes in Acadia National Park. The maps have been designed with the following in mind:</p>
 		<ul>
 			<li>Quickly see where routes are connected to each other by bus stops so that riders can determine which route or routes can get them to their destination.</li>
 			<li>The relationships between the paths of routes. This is useful when flagging down a bus from a trailhead or another location that does not have a designated stop.</li>
 			<li>Minimize the distractions that are caused by maps with routes that are overlayed on a geographically accurate depiction where roads have turns and switchbacks and important details may be obscured.</li>
-			<li>Provide a list of stops with helpful information that includes the routes that access the stop, facilities (restorooms, drinking water, etc.), and points of interest (trailheads, geographic features, etc.).</li>
+			<li>Provide a list of bus stops with helpful information that includes the routes that access the stop, facilities (restorooms, drinking water, etc.), and points of interest (trailheads, geographic features, etc.).</li>
+			<li>Fits on a single sheet of letter paper printed on both sides.</li>
 		</ul>
 
-		<p>Two page <a href="2018/island-explorer-routes-2018.pdf" alt="Island Explorer route stops">downloadable PDF</a> with both routes and stops on Acadia National Park and Mount Desert Island for the Island Explorer.</p>
+		<p>To report corrections or errors to this map please send an email to <a href="https://limnous.com/">Rich McNeary</a>.</p>
+
+		<p>Both the map and list of stops are below. There is also a two page <a href="2018/island-explorer-routes-2018.pdf" alt="Island Explorer route stops">downloadable PDF</a> with the same information.</p>
 
 		<section class="map-section">
 			<div class="map-container">
-				<img class="map" src="2018/island-explorer-route-map-2018.svg" />
+				<a class="map"><img class="map"/></a>
 			</div>
 		</section>
 
 		<section class="map-section">
 			<div class="map-container">
-				<img class="map" src="2018/island-explorer-route-stops-2018.svg" />
+				<a class="stop"><img class="stop"/></a>
 			</div>
+		</section>
+
+		<section class="license">
+			<p>The map and stops image files are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
 		</section>
 	</main>
+
+	<script>
+		var setElements = function(className, option) {
+			var elements = document.getElementsByClassName(className);
+			var prop;
+			for (var i = 0; i < elements.length; i++) {
+				console.log("localName: " + elements[i].localName)
+				prop = option[elements[i].localName];
+				if (prop) {
+					elements[i][prop] = option.value;
+				}
+			}
+		};
+
+		setElements("map", { a: "href", value: "docs/map.html" });
+		setElements("map", { img: "src", value: "2018/island-explorer-route-map-2018.svg" });
+		setElements("stop", { a: "href", value: "docs/stops.html" });
+		setElements("stop", { img: "src", value: "2018/island-explorer-route-stops-2018.svg" });
+	</script>
 </body>
 
 </html>
