@@ -31,10 +31,14 @@ p {
 
 .map-section {
     align-items: center;
-    background-color: darkgray;
     display: flex;
     flex: 1;
     flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.map-section:last-of-type {
+    margin-bottom: 0;
 }
 
 .map-container {
@@ -47,4 +51,8 @@ p {
 .map {
     flex: 1;
     width: 100%;
+}
+
+img.map {
+    border: 2px solid black;
 }
