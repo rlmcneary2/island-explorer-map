@@ -149,7 +149,7 @@
 <g transform="translate(1990,2745)">
 <path d="m1919.4 522v-166.87c0-70.289-18.544-108.38-64.085-153.92-305.54-305.46-611.01-611.01-916.51-916.51-44.845-44.845-61.163-72.591-124.61-72.531h-800.2c-66.167 0-83.219 8.2186-127.78 52.778l-246.2 247.06" fill="none" stroke="#ff4703" stroke-width="50px"/>
 <rect transform="rotate(135)" x="-1229.6" y="-158.02" width="60" height="36.923" fill="#ff4703"/>
-<g transform="translate(241.31 -631.68)" fill="#000000" font-family="Arial" font-size="74.667px" font-weight="bold" letter-spacing="0px" stroke-width="1px" word-spacing="0px">
+<g transform="translate(211.09 -606.67)" fill="#000000" font-family="Arial" font-size="74.667px" font-weight="bold" letter-spacing="0px" stroke-width="1px" word-spacing="0px">
 <text x="787.06299" y="-264.40576" style="line-height:125%" xml:space="preserve"><tspan x="787.06299" y="-264.40576" font-size="66.667px">Bar Harbor</tspan></text>
 <text x="788.78827" y="-196.22972" style="line-height:125%" xml:space="preserve"><tspan x="788.78827" y="-196.22972" font-size="66.667px">Campground</tspan></text>
 </g>
@@ -299,7 +299,7 @@
 <text x="206.56483" y="1948.3274" style="line-height:125%" xml:space="preserve"><tspan x="206.56483" y="1948.3274" font-size="66.667px">Bubble</tspan></text>
 <text x="267.38031" y="2016.5034" style="line-height:125%" xml:space="preserve"><tspan x="267.38031" y="2016.5034" font-size="66.667px">Pond</tspan></text>
 </g>
-<g transform="translate(63.903 -759.2)" fill="#000000" font-family="Arial" font-size="74.667px" font-weight="bold" letter-spacing="0px" stroke-width="1px" word-spacing="0px">
+<g transform="translate(-27.786 -731.07)" fill="#000000" font-family="Arial" font-size="74.667px" font-weight="bold" letter-spacing="0px" stroke-width="1px" word-spacing="0px">
 <text x="1237.6335" y="85.079803" style="line-height:125%" xml:space="preserve"><tspan x="1237.6335" y="85.079803" font-size="66.667px">Hulls Cove</tspan></text>
 <text x="1242.549" y="153.25583" style="line-height:125%" xml:space="preserve"><tspan x="1242.549" y="153.25583" font-size="66.667px">Visitor Center</tspan></text>
 </g>
