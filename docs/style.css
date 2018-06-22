@@ -62,3 +62,9 @@ li {
 img.map, img.stop {
     border: 1px solid black;
 }
+
+.sidebar-section {
+    float: left;
+    margin-right: 15px;
+    max-width: 33%;
+}
