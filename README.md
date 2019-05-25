@@ -8,9 +8,9 @@ A "tube-style" map that displays information about the Island Explorer bus route
 
 The maps and a list of bus stops are stored under directories with names that correspond to the year they were created for.
 
-![A "tube-style" map of Island Explorer bus routes in Acadia National Park.](2018/island-explorer-route-map-2018.svg "Island Explorer Map")
+![A "tube-style" map of Island Explorer bus routes in Acadia National Park.](2019/island-explorer-route-map-2019.svg "Island Explorer Map")
 
-![A list of bus stops in Acadia National Park.](2018/island-explorer-route-stops-2018.svg "Island Explorer Stops")
+![A list of bus stops in Acadia National Park.](2019/island-explorer-route-stops-2019.svg "Island Explorer Stops")
 
 The map and stops image files are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 

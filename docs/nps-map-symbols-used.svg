@@ -14,7 +14,7 @@
    viewBox="0 0 4.1669296 2.5000003"
    version="1.1"
    id="svg13741"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="nps-map-symbols-used.svg">
   <defs
      id="defs13735" />
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.95"
-     inkscape:cx="255.15189"
-     inkscape:cy="1.7931053"
+     inkscape:cx="292.80798"
+     inkscape:cy="-66.003505"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -769,11 +769,11 @@
       </g>
     </g>
     <g
-       id="g1044"
-       transform="translate(-0.10006764,-0.08693049)">
+       id="g989"
+       transform="translate(0,0.07415254)">
       <g
          style="fill:#ffffff;fill-opacity:0"
-         transform="matrix(0.08788582,0,0,-0.08788582,-216.87138,287.33773)"
+         transform="matrix(0.08788582,0,0,-0.08788582,-216.97145,287.2508)"
          id="g11176">
         <path
            inkscape:connector-curvature="0"
@@ -783,13 +783,40 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="matrix(0.08788582,0,0,-0.08788582,-216.48159,287.4534)"
+         transform="matrix(0.08788582,0,0,-0.08788582,-216.58166,287.36647)"
          id="g11180">
         <path
            inkscape:connector-curvature="0"
            id="path11182"
            style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            d="M 0,0 C 1.269,0 2.296,-1.027 2.296,-2.295 2.296,-3.564 1.269,-4.592 0,-4.592 L -1.478,-4.59 V -6.77 H -2.801 V 0 Z m 0.021,-3.285 c 0.561,0 1.016,0.455 1.016,1.015 0,0.563 -0.455,1.018 -1.016,1.018 l -1.499,0.002 v -2.035 z" />
+      </g>
+    </g>
+    <g
+       id="g1005"
+       transform="translate(0.0529661,0.03531074)"
+       inkscape:export-filename="C:\Users\rich\Documents\GitHub\acadia-explorer\style\icon-bus.png"
+       inkscape:export-xdpi="36.8871"
+       inkscape:export-ydpi="36.8871">
+      <g
+         style="fill:none"
+         transform="matrix(0.08788582,0,0,-0.08788582,-216.15816,287.27781)"
+         id="g11018">
+        <path
+           inkscape:connector-curvature="0"
+           id="path11020"
+           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c -0.542,0 -0.981,-0.44 -0.981,-0.981 v -7.522 c 0,-0.54 0.439,-0.979 0.981,-0.979 h 7.522 c 0.54,0 0.979,0.439 0.979,0.979 v 7.522 C 8.501,-0.44 8.062,0 7.522,0 Z" />
+      </g>
+      <g
+         style="fill:#000000;fill-opacity:1"
+         transform="matrix(0.08788582,0,0,-0.08788582,-215.59977,287.48233)"
+         id="g11022">
+        <path
+           inkscape:connector-curvature="0"
+           id="path11024"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 C -0.078,0.388 -0.326,0.543 -0.699,0.698 -1.072,0.854 -1.945,1.039 -2.596,1.039 -3.248,1.039 -4.121,0.854 -4.494,0.698 -4.867,0.543 -5.115,0.388 -5.193,0 l -0.28,-2.152 v -2.965 h 0.483 v -0.465 c 0,-0.566 0.83,-0.566 0.83,0 v 0.465 h 3.129 v -0.465 c 0,-0.566 0.828,-0.566 0.828,0 v 0.465 h 0.482 v 2.965 z m -3.897,0.563 h 2.601 c 0.256,0 0.256,-0.484 0,-0.484 h -2.601 c -0.256,0 -0.256,0.484 0,0.484 m -0.679,-4.79 c -0.24,0 -0.437,0.195 -0.437,0.438 0,0.241 0.197,0.437 0.437,0.437 0.242,0 0.438,-0.196 0.438,-0.437 0,-0.243 -0.196,-0.438 -0.438,-0.438 m 3.959,0 c -0.242,0 -0.439,0.195 -0.439,0.438 0,0.241 0.197,0.437 0.439,0.437 0.24,0 0.436,-0.196 0.436,-0.437 0,-0.243 -0.196,-0.438 -0.436,-0.438 m 0.172,1.848 h -4.297 c -0.125,0 -0.229,0.104 -0.229,0.229 0,0.021 0.004,0.041 0.008,0.06 l 0.229,1.697 c 0.019,0.106 0.113,0.188 0.224,0.188 h 3.832 c 0.112,0 0.205,-0.082 0.225,-0.188 l 0.228,-1.697 c 0.004,-0.019 0.008,-0.039 0.008,-0.06 0,-0.125 -0.103,-0.229 -0.228,-0.229" />
       </g>
     </g>
   </g>
