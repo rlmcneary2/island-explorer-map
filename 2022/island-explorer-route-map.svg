@@ -59,9 +59,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.54579589"
-     inkscape:cx="3024.0242"
-     inkscape:cy="3556.2745"
+     inkscape:zoom="0.28582992"
+     inkscape:cx="3486.339"
+     inkscape:cy="4289.264"
      inkscape:document-units="px"
      inkscape:current-layer="layer16"
      showgrid="false"
@@ -78,10 +78,10 @@
      inkscape:object-paths="false"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0"
-     inkscape:snap-intersection-paths="true"
+     inkscape:snap-intersection-paths="false"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
-     inkscape:object-nodes="true"
+     inkscape:object-nodes="false"
      inkscape:snap-midpoints="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -89,7 +89,7 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:bbox-paths="false"
-     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-smooth-nodes="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -481,11 +481,11 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="water"
-     style="display:inline"
+     style="display:none"
      transform="translate(1990,2745)"
      sodipodi:insensitive="true">
     <rect
-       style="display:inline;opacity:1;fill:#e1f4fe;fill-opacity:1;stroke:none;stroke-width:17.27039146;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#e1f4fe;fill-opacity:1;stroke:none;stroke-width:17.2704;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5685"
        width="5320"
        height="6210"
@@ -545,10 +545,10 @@
      id="layer2"
      inkscape:label="island"
      transform="translate(1990,2745)"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
-       style="fill:#e9fee1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20.76922989;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#e9fee1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20.7692;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 2025.2763,1970.926 1424.09,2572.1123 H -284.1212 V 792 h -526.5621 v 1563.1218 l 310,310 v 717.8405 H -1197.146 L -1840,2740.1083 -1835.4961,1056.5039 -1090,302 v -710 h 543.0748 L -92.085,-862.8402 H 923.738 L 2025.2763,238.6981 Z"
        id="path4546"
        inkscape:connector-curvature="0"
@@ -1750,7 +1750,7 @@
          id="tspan1649-0-3-3-95-9-0-1-4-2-4-3-7"
          x="-1614.5883"
          y="3920.5833"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic'">Copyright 2019 Richard L. McNeary II</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic'">Copyright 2022 Richard L. McNeary II</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1887,24 +1887,6 @@
            id="tspan1653-25-5-6"
            sodipodi:role="line">Visitor Center</tspan></text>
     </g>
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e9fee1;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 699.2893,2280.4416 770,2209.7309 l 35.3553,35.3553 35.3554,35.3554"
-       id="path1265-2-8-6-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc">
-      <desc
-         id="desc1647-1">one-way arrow</desc>
-    </path>
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e9fee1;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 699.2893,1005.7122 770,935.00156 l 35.3553,35.35524 35.3554,35.3554"
-       id="path1265-2-8-6-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc">
-      <desc
-         id="desc1647-7">one-way arrow</desc>
-    </path>
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#e9fee1;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 836.1822,1874.2148 70.7107,-70.7107 35.3553,35.3553 35.3554,35.3554"
@@ -2450,8 +2432,8 @@
     <circle
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:25px;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5543-7"
-       cx="1476.6772"
-       cy="1310.4728"
+       cx="1464.144"
+       cy="1323.006"
        r="62.5">
       <desc
          id="desc3609">station</desc>
@@ -3491,22 +3473,22 @@
        id="rect6969-6"
        width="25"
        height="25"
-       x="2043.7554"
-       y="1051.1301" />
+       x="2918.6072"
+       y="1114.2205" />
     <rect
        style="opacity:1;fill:#73ccfa;fill-opacity:1;stroke:none;stroke-width:16;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6969"
        width="50"
        height="50"
-       x="2522.4829"
-       y="1401.549" />
+       x="2829.5222"
+       y="1309.0166" />
     <rect
        style="opacity:1;fill:#73ccfa;fill-opacity:1;stroke:none;stroke-width:16;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6969-0"
        width="50"
        height="50"
-       x="2901.7698"
-       y="-885.06561"
+       x="3053.449"
+       y="-1167.6055"
        transform="rotate(45)" />
     <rect
        style="opacity:1;fill:#73ccfa;fill-opacity:1;stroke:none;stroke-width:8;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -3527,8 +3509,8 @@
     <circle
        style="display:inline;opacity:1;fill:#ff0000;fill-opacity:0.705882;stroke:#ff0000;stroke-width:0.993378;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5543-7-40-2-2-9-5"
-       cx="2638.177"
-       cy="1277.062"
+       cx="2844.1038"
+       cy="1114.2205"
        r="74.503311">
       <desc
          id="desc2659-6">station</desc>
