@@ -59,11 +59,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.29857056"
-     inkscape:cx="3454.7948"
-     inkscape:cy="3603.8383"
+     inkscape:zoom="0.50383782"
+     inkscape:cx="3140.8917"
+     inkscape:cy="5120.6954"
      inkscape:document-units="px"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer8"
      showgrid="false"
      units="px"
      inkscape:window-width="2560"
@@ -1750,6 +1750,95 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="sand beach"
+     transform="translate(1990,2745)"
+     style="display:inline">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#276d4b;stroke-width:50px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1869.3752,522 v 175.1976 c 0,40.24455 -35.3639,74.50327 -74.5033,74.5033 h -887.979 m 0,15.1987 529.001,529.001 m 0,0 7.3739,7.3739 c 52.9815,52.9815 52.9815,52.9815 127.9036,52.9815 h 248.3742 c 25,0 49.8296,24.8296 49.8296,49.8296 v 445.1936 c 0,90.1847 9.4522,65.0511 -52.5019,127.0052 l -134.7543,134.7543 c -26.3409,26.3409 -79.0226,26.3408 -105.3635,-1e-4 L 1370.269,1926.5521 c -26.375,-26.375 -26.375,-26.375 -26.375,-63.614 v -309.2847 c 0,-75.0422 3.564,-78.6062 56.4027,-131.4449 53.2749,-53.2749 53.2749,-53.2749 53.2749,-128.2443 m 0,82.2918 c 0,-78.0331 0,-78.0331 52.1492,-130.1823 l 310.9726,-310.97634 c 63.5556,-63.55557 52.6818,-36.91733 52.6818,-127.1851 V 553.95779"
+       id="path4986"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc">
+      <desc
+         id="desc1546">Sand Beach route</desc>
+    </path>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e9fee1;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1680.3672,1171.4272 v -99.9999 h -50 -50"
+       id="path1265"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc">
+      <desc
+         id="desc1629">one-way arrow</desc>
+    </path>
+    <g
+       id="g1834"
+       transform="translate(186.85978,54.187978)">
+      <text
+         id="text1651-8"
+         y="2299.8345"
+         x="1517.0641"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:66.6667px"
+           y="2299.8345"
+           x="1517.0641"
+           id="tspan1649-8"
+           sodipodi:role="line">Otter</tspan></text>
+      <text
+         id="text1655-6"
+         y="2368.0105"
+         x="1515.29"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:66.6667px"
+           y="2368.0105"
+           x="1515.29"
+           id="tspan1653-7"
+           sodipodi:role="line">Cliffs</tspan></text>
+    </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e9fee1;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1414.6047,1737.4683 -70.7107,-70.7107 -35.3553,35.3553 -35.3554,35.3554"
+       id="path1265-7-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc">
+      <desc
+         id="desc1637">one-way arrow</desc>
+    </path>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2042.4783"
+       y="1906.038"
+       id="text1651-8-1"><tspan
+         sodipodi:role="line"
+         id="tspan1649-8-8"
+         x="2042.4783"
+         y="1906.038"
+         style="font-size:66.6667px">Thunder Hole</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e9fee1;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1465.1485,2121.4316 v -100 h 50 50.0001"
+       id="path1265-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc">
+      <desc
+         id="desc1629-5">one-way arrow</desc>
+    </path>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e9fee1;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1514.5158,842.41151 -70.7106,-70.71061 35.3553,-35.35531 35.3554,-35.35529"
+       id="path1265-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc">
+      <desc
+         id="desc1629-8">one-way arrow</desc>
+    </path>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="loop road"
      style="display:inline"
@@ -1921,7 +2010,7 @@
     </path>
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#e9fee1;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1206.6045,2426.4016 -70.7107,70.7107 35.3553,35.3553 35.3554,35.3554"
+       d="m 1248.586,2402.0288 -70.7107,70.7107 35.3553,35.3553 35.3554,35.3554"
        id="path1265-2-6-3-61"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc">
@@ -1937,111 +2026,14 @@
       <desc
          id="desc1647-1-7-8">one-way arrow</desc>
     </path>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer10"
-     inkscape:label="sand beach"
-     transform="translate(1990,2745)"
-     style="display:inline">
-    <rect
-       style="display:inline;opacity:1;fill:#f3008e;fill-opacity:1;stroke:none;stroke-width:18.1713;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6986-4-4-9"
-       width="60"
-       height="36.923077"
-       x="-2807.7288"
-       y="424.89157"
-       transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#276d4b;stroke-width:50px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1869.3752,522 v 175.1976 c 0,40.24455 -35.3639,74.50327 -74.5033,74.5033 h -887.979 m 0,15.1987 529.001,529.001 m 0,0 7.3739,7.3739 c 52.9815,52.9815 52.9815,52.9815 127.9036,52.9815 h 248.3742 c 25,0 49.8296,24.8296 49.8296,49.8296 v 445.1936 c 0,90.1847 9.4522,65.0511 -52.5019,127.0052 l -134.7543,134.7543 c -26.3409,26.3409 -79.0226,26.3408 -105.3635,-1e-4 L 1370.269,1926.5521 c -26.375,-26.375 -26.375,-26.375 -26.375,-63.614 v -309.2847 c 0,-75.0422 3.564,-78.6062 56.4027,-131.4449 53.2749,-53.2749 53.2749,-53.2749 53.2749,-128.2443 m 0,82.2918 c 0,-78.0331 0,-78.0331 52.1492,-130.1823 l 310.9726,-310.97634 c 63.5556,-63.55557 52.6818,-36.91733 52.6818,-127.1851 V 553.95779"
-       id="path4986"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccc">
-      <desc
-         id="desc1546">Sand Beach route</desc>
-    </path>
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#e9fee1;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1680.3672,1171.4272 v -99.9999 h -50 -50"
-       id="path1265"
+       d="m 1181.2769,996.63896 v 99.99994 h -50 -50.0001"
+       id="path1265-4-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc">
       <desc
-         id="desc1629">one-way arrow</desc>
-    </path>
-    <g
-       id="g1834"
-       transform="translate(186.85978,54.187978)">
-      <text
-         id="text1651-8"
-         y="2299.8345"
-         x="1517.0641"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:66.6667px"
-           y="2299.8345"
-           x="1517.0641"
-           id="tspan1649-8"
-           sodipodi:role="line">Otter</tspan></text>
-      <text
-         id="text1655-6"
-         y="2368.0105"
-         x="1515.29"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:66.6667px"
-           y="2368.0105"
-           x="1515.29"
-           id="tspan1653-7"
-           sodipodi:role="line">Cliffs</tspan></text>
-    </g>
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e9fee1;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1414.6047,1737.4683 -70.7107,-70.7107 -35.3553,35.3553 -35.3554,35.3554"
-       id="path1265-7-2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc">
-      <desc
-         id="desc1637">one-way arrow</desc>
-    </path>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2042.4783"
-       y="1906.038"
-       id="text1651-8-1"><tspan
-         sodipodi:role="line"
-         id="tspan1649-8-8"
-         x="2042.4783"
-         y="1906.038"
-         style="font-size:66.6667px">Thunder Hole</tspan></text>
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e9fee1;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1465.1485,2121.4316 v -100 h 50 50.0001"
-       id="path1265-0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc">
-      <desc
-         id="desc1629-5">one-way arrow</desc>
-    </path>
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e9fee1;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1763.4196,1986.9791 v 100 h 50 50"
-       id="path1265-2-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc">
-      <desc
-         id="desc1633-0">one-way arrow</desc>
-    </path>
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#e9fee1;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1965.0859,1711.6712 -70.7107,70.7107 -35.3553,-35.3553 -35.3554,-35.3554"
-       id="path1265-7-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc">
-      <desc
-         id="desc1631-3">one-way arrow</desc>
+         id="desc1629-2-9">one-way arrow</desc>
     </path>
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#e9fee1;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2054,21 +2046,21 @@
     </path>
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#e9fee1;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1514.5158,842.41151 -70.7106,-70.71061 35.3553,-35.35531 35.3554,-35.35529"
-       id="path1265-6"
+       d="m 1965.0859,1711.6712 -70.7107,70.7107 -35.3553,-35.3553 -35.3554,-35.3554"
+       id="path1265-7-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc">
       <desc
-         id="desc1629-8">one-way arrow</desc>
+         id="desc1631-3">one-way arrow</desc>
     </path>
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#e9fee1;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1181.2769,996.63896 v 99.99994 h -50 -50.0001"
-       id="path1265-4-3"
+       d="m 1763.4196,1986.9791 v 100 h 50 50"
+       id="path1265-2-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc">
       <desc
-         id="desc1629-2-9">one-way arrow</desc>
+         id="desc1633-0">one-way arrow</desc>
     </path>
   </g>
   <g
@@ -2117,6 +2109,14 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
        transform="translate(1990,2745)" />
+    <rect
+       style="display:inline;opacity:1;fill:#f3008e;fill-opacity:1;stroke:none;stroke-width:18.1713;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6986-4-4-9"
+       width="60"
+       height="36.923077"
+       x="-2807.7288"
+       y="424.89157"
+       transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,1990,2745)" />
   </g>
   <g
      inkscape:groupmode="layer"
