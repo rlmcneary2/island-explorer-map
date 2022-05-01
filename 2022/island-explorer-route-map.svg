@@ -86,11 +86,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.39187386"
-     inkscape:cx="2897.6161"
-     inkscape:cy="3955.3544"
+     inkscape:zoom="0.29857056"
+     inkscape:cx="2074.8864"
+     inkscape:cy="2233.9778"
      inkscape:document-units="px"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer14"
      showgrid="false"
      units="px"
      inkscape:window-width="2560"
@@ -101,7 +101,7 @@
      inkscape:snap-others="true"
      inkscape:snap-grids="false"
      inkscape:snap-to-guides="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:object-paths="true"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0"
@@ -950,28 +950,47 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-810.14832"
-       y="231.3342"
+       y="245.33421"
        id="text1651-9-45-8-1-0-8-4"><tspan
          sodipodi:role="line"
          id="tspan1649-0-3-3-95-9-0-0"
          x="-810.14832"
-         y="231.3342"
+         y="245.33421"
          style="font-size:66.6667px">Town Hill</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-810.14832"
+       y="29.068077"
+       id="text1651-9-45-8-1-0-8-4-17"><tspan
+         sodipodi:role="line"
+         id="tspan1649-0-3-3-95-9-0-0-5"
+         x="-810.14832"
+         y="29.068077"
+         style="font-size:66.6667px">Terramore</tspan></text>
     <rect
-       style="display:inline;opacity:1;fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:18.17127609;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:18.1713;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6986-4-1-9-9-4-9-8-1"
        width="60"
        height="36.923077"
        x="825.68329"
-       y="-226.32568"
+       y="-240.32567"
        transform="scale(-1)" />
     <rect
-       style="display:inline;opacity:1;fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:18.17127609;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:18.1713;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6986-4-1-9-9-4-9-8-1-1"
        width="60"
        height="36.923077"
        x="825.68329"
-       y="140.20654"
+       y="192.20656"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:18.1713;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6986-4-1-9-9-4-9-8-1-1-3"
+       width="60"
+       height="36.923077"
+       x="825.68329"
+       y="-24.059551"
        transform="scale(-1)" />
     <rect
        style="display:inline;opacity:1;fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:18.17127609;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1423,7 +1442,7 @@
          style="font-size:66.6667px">Seawall Campground</tspan></text>
     <g
        id="g2070"
-       transform="translate(0,-418)">
+       transform="translate(0,-470.00001)">
       <text
          id="text1651-9-45-8-1-4-9-9"
          y="242.49651"
