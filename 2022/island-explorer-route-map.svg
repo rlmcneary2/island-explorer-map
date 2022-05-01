@@ -59,23 +59,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.78170815"
-     inkscape:cx="2136.9868"
-     inkscape:cy="3361.8685"
+     inkscape:zoom="0.2799099"
+     inkscape:cx="3867.3159"
+     inkscape:cy="3879.8199"
      inkscape:document-units="px"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="layer6"
      showgrid="false"
      units="px"
-     inkscape:window-width="1536"
-     inkscape:window-height="811"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="3832"
+     inkscape:window-y="253"
      inkscape:window-maximized="1"
      inkscape:snap-others="false"
      inkscape:snap-grids="false"
      inkscape:snap-to-guides="true"
      inkscape:snap-global="true"
-     inkscape:object-paths="false"
+     inkscape:object-paths="true"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0"
      inkscape:snap-intersection-paths="true"
@@ -85,9 +85,9 @@
      inkscape:snap-midpoints="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-midpoints="false"
-     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="false"
      inkscape:bbox-paths="false"
      inkscape:snap-smooth-nodes="true"
      fit-margin-top="0"
@@ -210,7 +210,7 @@
        id="guide1310"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="3567.7596,3568"
+       position="3564.5095,3593"
        orientation="0,1"
        id="guide1318"
        inkscape:locked="false" />
@@ -403,7 +403,7 @@
        orientation="1,0"
        id="guide27424" />
     <sodipodi:guide
-       position="3333.894,2580.3573"
+       position="3606.1163,3517.9979"
        orientation="1,0"
        id="guide33396" />
     <sodipodi:guide
@@ -446,6 +446,18 @@
        position="2971.3962,1642.8877"
        orientation="1,0"
        id="guide113214" />
+    <sodipodi:guide
+       position="3142.5988,3518"
+       orientation="0,-1"
+       id="guide2298" />
+    <sodipodi:guide
+       position="3738.7305,3543"
+       orientation="0,-1"
+       id="guide3864" />
+    <sodipodi:guide
+       position="2476.0374,3450.4837"
+       orientation="0,-1"
+       id="guide4442" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -573,6 +585,18 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="bicycle express"
+     transform="translate(1990,2745)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#131415;stroke-width:50px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1894.3752,597 c 0,0 -187.2316,25.18191 -280.8023,25 -318.0503,-0.61832 -999.30457,0 -999.30457,0 -38.59271,0 -100.43556,25.93223 -127.18512,52.68179 L 421.0766,740.6884"
+       id="path5002"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="trenton"
      style="display:inline"
@@ -599,10 +623,10 @@
      transform="translate(1990,2745)">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#0aaeed;stroke-width:50px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1894.3752,571.58604 c 0,0 -184.7021,50.78972 -279.3086,50.41396 -341.2068,-1.35523 -964.9463,0 -964.9463,0 -64.73842,0 -83.58569,8.5857 -128.5915,53.5915 l -30.40966,30.4097 c -41.132,40.5616 -64.18922,40.8355 -104.70704,-0.6424 L 305.2429,625.0534 C 258.84453,578.655 240.26766,572 177.1895,572 h -277.56439 c -37.25166,0 -74.50331,37.25166 -74.50331,74.50331 V 2472.7395 h 957.26777 c 37.25166,0 74.50331,-37.2517 74.50331,-74.5033 l 2e-5,-816.7183"
+       d="m 1894.3752,571.58604 c 0,0 -183.6524,0.78972 -278.2589,0.41396 H -100.37489 c -37.25166,0 -74.50331,37.25166 -74.50331,74.50331 V 2472.7395 h 957.26777 c 37.25166,0 74.50331,-37.2517 74.50331,-74.5033 l 2e-5,-816.7183"
        id="path4993"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscccccccccccc" />
+       sodipodi:nodetypes="cccccccc" />
     <rect
        style="display:inline;opacity:1;fill:#0aaeed;fill-opacity:1;stroke:none;stroke-width:18.1713;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6986-4-1-9-9"
@@ -646,39 +670,6 @@
            x="236.06364"
            id="tspan1653-25-1-6-1"
            sodipodi:role="line">Gatehouse</tspan></text>
-    </g>
-    <rect
-       style="display:inline;opacity:1;fill:#0aaeed;fill-opacity:1;stroke:none;stroke-width:18.1713;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6986-4-1-9-9-4"
-       width="60"
-       height="36.923077"
-       x="-174.8782"
-       y="1332.7944" />
-    <g
-       id="g2320"
-       transform="translate(-241.20967,-490.77605)">
-      <text
-         id="text1651-9-8"
-         y="1832.1582"
-         x="143.34924"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:66.6667px"
-           y="1832.1582"
-           x="143.34924"
-           id="tspan1649-0-5"
-           sodipodi:role="line">Parkman</tspan></text>
-      <text
-         id="text1655-5-97"
-         y="1900.3342"
-         x="143.47945"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:66.6667px"
-           y="1900.3342"
-           x="143.47945"
-           id="tspan1653-25-4"
-           sodipodi:role="line">Mountain</tspan></text>
     </g>
     <g
        id="g2362"
@@ -828,6 +819,154 @@
            id="tspan1653-25-1-6-1-39-7"
            sodipodi:role="line">Stables</tspan></text>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="oceanarium"
+     style="display:inline"
+     transform="translate(1990,2745)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff4703;stroke-width:50px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1944.3752,522 V 406.2855 c 0,-99.98348 -10.5494,-126.53413 -81.9385,-197.9232 C 1556.8924,-97.10058 1244.2824,-409.79885 938.77843,-715.30287 893.93336,-760.14797 877.61552,-787.8939 814.17188,-787.834 H 13.975 c -66.167388,0 -83.218623,8.2186 -127.7783,52.7783 l -123.0984,123.5278"
+       id="path4558"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff4703;fill-opacity:1;stroke:none;stroke-width:18.17127609;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6986-4-1-9-9-4-9-8-1-1-4"
+       width="60"
+       height="36.923077"
+       x="-1229.6121"
+       y="-158.02109"
+       transform="rotate(135)" />
+    <g
+       id="g2229"
+       transform="translate(198.59069,-625.42833)">
+      <text
+         id="text1651-9-45-8-1-4-9-9-7"
+         y="-264.40576"
+         x="787.06299"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:66.6667px"
+           y="-264.40576"
+           x="787.06299"
+           id="tspan1649-0-3-3-95-0-2-3-1"
+           sodipodi:role="line">Bar Harbor</tspan></text>
+      <text
+         id="text1655-5-3-6-9-8-1-9-2"
+         y="-196.22972"
+         x="788.78827"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:66.6667px"
+           y="-196.22972"
+           x="788.78827"
+           id="tspan1653-25-1-3-3-7-51-4-6"
+           sodipodi:role="line">Campground</tspan></text>
+    </g>
+    <rect
+       style="display:inline;opacity:1;fill:#ff4703;fill-opacity:1;stroke:none;stroke-width:18.17127609;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6986-4-1-9-9-4-9-8-1-1-4-3"
+       width="60"
+       height="36.923077"
+       x="-847.83398"
+       y="-422.09653"
+       transform="rotate(90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="199.61482"
+       y="-900.99231"
+       id="text1651-9-45-8-1-4-9-9-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan1649-0-3-3-95-0-2-3-1-7"
+         x="199.61482"
+         y="-900.99231"
+         style="font-size:66.6667px">Hadley Point</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#ff4703;fill-opacity:1;stroke:none;stroke-width:25.6981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6986-4-1-9-9-2-9-6-1-9"
+       width="120"
+       height="36.923077"
+       x="-659.9303"
+       y="-283.36227"
+       transform="rotate(45)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="trenton"
+     transform="translate(1990,2745)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#9e9e9e;stroke-width:50px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -885.6833,-1456.7328 V 397 c 0,40.27714 36.51071,75 75,75 H 143.69877 477.6329 c 0,0 758.1988,-0.12968 1136.796,0 93.6463,0.0321 279.9463,23.59587 279.9463,23.59587"
+       id="path4999"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccsc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-810.14832"
+       y="231.3342"
+       id="text1651-9-45-8-1-0-8-4"><tspan
+         sodipodi:role="line"
+         id="tspan1649-0-3-3-95-9-0-0"
+         x="-810.14832"
+         y="231.3342"
+         style="font-size:66.6667px">Town Hill</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:18.17127609;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6986-4-1-9-9-4-9-8-1"
+       width="60"
+       height="36.923077"
+       x="825.68329"
+       y="-226.32568"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;opacity:1;fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:18.17127609;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6986-4-1-9-9-4-9-8-1-1"
+       width="60"
+       height="36.923077"
+       x="825.68329"
+       y="140.20654"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;opacity:1;fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:18.17127609;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6986-4-1-9-9-4-9-8-1-4"
+       width="60"
+       height="36.923077"
+       x="825.68329"
+       y="1004.5879"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;opacity:1;fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:18.17127609;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6986-4-1-9-9-4-9-8-1-3"
+       width="60"
+       height="36.923077"
+       x="825.68329"
+       y="1221.4292"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;opacity:1;fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:25.6980648;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6986-4-1-9-9-2-9-6-1"
+       width="120"
+       height="36.923077"
+       x="825.68329"
+       y="1438.2705"
+       transform="scale(-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-808.716"
+       y="-1439.4802"
+       id="text1651-9-45-8-1-0-8-4-1"><tspan
+         sodipodi:role="line"
+         id="tspan1649-0-3-3-95-9-0-0-7"
+         x="-808.716"
+         y="-1439.4802"
+         style="font-size:66.6667px">Acadia Gateway Center</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1092,166 +1231,6 @@
            id="tspan3153-04"
            sodipodi:role="line">B</tspan></text>
     </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="oceanarium"
-     style="display:inline"
-     transform="translate(1990,2745)">
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ff4703;stroke-width:50px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1944.3752,522 V 406.2855 c 0,-99.98348 -10.5494,-126.53413 -81.9385,-197.9232 C 1556.8924,-97.10058 1244.2824,-409.79885 938.77843,-715.30287 893.93336,-760.14797 877.61552,-787.8939 814.17188,-787.834 H 13.975 c -66.167388,0 -83.218623,8.2186 -127.7783,52.7783 l -123.0984,123.5278"
-       id="path4558"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
-    <rect
-       style="display:inline;opacity:1;fill:#ff4703;fill-opacity:1;stroke:none;stroke-width:18.17127609;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6986-4-1-9-9-4-9-8-1-1-4"
-       width="60"
-       height="36.923077"
-       x="-1229.6121"
-       y="-158.02109"
-       transform="rotate(135)" />
-    <g
-       id="g2229"
-       transform="translate(198.59069,-625.42833)">
-      <text
-         id="text1651-9-45-8-1-4-9-9-7"
-         y="-264.40576"
-         x="787.06299"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:66.6667px"
-           y="-264.40576"
-           x="787.06299"
-           id="tspan1649-0-3-3-95-0-2-3-1"
-           sodipodi:role="line">Bar Harbor</tspan></text>
-      <text
-         id="text1655-5-3-6-9-8-1-9-2"
-         y="-196.22972"
-         x="788.78827"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:66.6667px"
-           y="-196.22972"
-           x="788.78827"
-           id="tspan1653-25-1-3-3-7-51-4-6"
-           sodipodi:role="line">Campground</tspan></text>
-    </g>
-    <rect
-       style="display:inline;opacity:1;fill:#ff4703;fill-opacity:1;stroke:none;stroke-width:18.17127609;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6986-4-1-9-9-4-9-8-1-1-4-3"
-       width="60"
-       height="36.923077"
-       x="-847.83398"
-       y="-422.09653"
-       transform="rotate(90)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="199.61482"
-       y="-900.99231"
-       id="text1651-9-45-8-1-4-9-9-7-5"><tspan
-         sodipodi:role="line"
-         id="tspan1649-0-3-3-95-0-2-3-1-7"
-         x="199.61482"
-         y="-900.99231"
-         style="font-size:66.6667px">Hadley Point</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#ff4703;fill-opacity:1;stroke:none;stroke-width:25.6981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6986-4-1-9-9-2-9-6-1-9"
-       width="120"
-       height="36.923077"
-       x="-659.9303"
-       y="-283.36227"
-       transform="rotate(45)" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer14"
-     inkscape:label="trenton"
-     transform="translate(1990,2745)">
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#9e9e9e;stroke-width:50px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M -885.6833,-1456.7328 V 397 c 0,40.27714 36.51071,75 75,75 H 143.69877 477.6329 c 0,0 758.1988,-0.12968 1136.796,0 93.6463,0.0321 279.9463,23.59587 279.9463,23.59587"
-       id="path4999"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccsc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-810.14832"
-       y="231.3342"
-       id="text1651-9-45-8-1-0-8-4"><tspan
-         sodipodi:role="line"
-         id="tspan1649-0-3-3-95-9-0-0"
-         x="-810.14832"
-         y="231.3342"
-         style="font-size:66.6667px">Town Hill</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:18.17127609;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6986-4-1-9-9-4-9-8-1"
-       width="60"
-       height="36.923077"
-       x="825.68329"
-       y="-226.32568"
-       transform="scale(-1)" />
-    <rect
-       style="display:inline;opacity:1;fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:18.17127609;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6986-4-1-9-9-4-9-8-1-1"
-       width="60"
-       height="36.923077"
-       x="825.68329"
-       y="140.20654"
-       transform="scale(-1)" />
-    <rect
-       style="display:inline;opacity:1;fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:18.17127609;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6986-4-1-9-9-4-9-8-1-4"
-       width="60"
-       height="36.923077"
-       x="825.68329"
-       y="1004.5879"
-       transform="scale(-1)" />
-    <rect
-       style="display:inline;opacity:1;fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:18.17127609;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6986-4-1-9-9-4-9-8-1-3"
-       width="60"
-       height="36.923077"
-       x="825.68329"
-       y="1221.4292"
-       transform="scale(-1)" />
-    <rect
-       style="display:inline;opacity:1;fill:#9e9e9e;fill-opacity:1;stroke:none;stroke-width:25.6980648;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6986-4-1-9-9-2-9-6-1"
-       width="120"
-       height="36.923077"
-       x="825.68329"
-       y="1438.2705"
-       transform="scale(-1)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-808.716"
-       y="-1439.4802"
-       id="text1651-9-45-8-1-0-8-4-1"><tspan
-         sodipodi:role="line"
-         id="tspan1649-0-3-3-95-9-0-0-7"
-         x="-808.716"
-         y="-1439.4802"
-         style="font-size:66.6667px">Acadia Gateway Center</tspan></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer15"
-     inkscape:label="bicycle express"
-     transform="translate(1990,2745)">
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#131415;stroke-width:50px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1894.3752,551.2739 c 0,0 -186.3756,20.90801 -279.9463,20.7261 -318.0503,-0.61832 -942.29021,0 -942.29021,0 -101.40489,0 -128.46057,10.73158 -185.24528,67.51629 l -55.20555,55.20555"
-       id="path5002"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csccc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2151,14 +2130,6 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccscccc" />
     <rect
-       style="display:inline;opacity:1;fill:#0aaeed;fill-opacity:1;stroke:none;stroke-width:18.1713;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6986-4-1-9-9-2"
-       width="60"
-       height="36.923077"
-       x="2472.7395"
-       y="-344.47815"
-       transform="rotate(90)" />
-    <rect
        style="display:inline;fill:#9180e7;fill-opacity:1;stroke:none;stroke-width:18.1713;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6986-4-1-9-9-2-8"
        width="60"
@@ -2166,32 +2137,6 @@
        x="-856.89288"
        y="-1160.4615"
        transform="scale(-1)" />
-    <g
-       id="g2488"
-       transform="translate(-253.83341,-553.00529)">
-      <text
-         id="text1651-9-8-7-8"
-         y="3194.0066"
-         x="512.35321"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:66.6667px"
-           y="3194.0066"
-           x="512.35321"
-           id="tspan1649-0-5-4-0"
-           sodipodi:role="line">Seal</tspan></text>
-      <text
-         id="text1655-5-97-1-0"
-         y="3262.1826"
-         x="467.70804"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:66.6667px"
-           y="3262.1826"
-           x="467.70804"
-           id="tspan1653-25-4-1-9"
-           sodipodi:role="line">Harbor</tspan></text>
-    </g>
     <g
        id="g2557"
        transform="translate(-569.52258,-1019.3255)">
@@ -2697,10 +2642,10 @@
          id="desc3609-8">station</desc>
     </circle>
     <circle
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:35.35533524px;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:35.3553px;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5543-0-2"
        cx="1894.3752"
-       cy="522"
+       cy="547"
        r="88.388336">
       <desc
          id="desc3601-8-9">station</desc>
@@ -3507,15 +3452,15 @@
        id="rect6969-6"
        width="25"
        height="25"
-       x="4050.5647"
-       y="1029.5961" />
+       x="3625.1775"
+       y="797.0885" />
     <rect
        style="opacity:1;fill:#73ccfa;fill-opacity:1;stroke:none;stroke-width:16;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6969"
        width="50"
        height="50"
-       x="3930.0544"
-       y="658.61194" />
+       x="3968.1909"
+       y="943.36212" />
     <rect
        style="opacity:1;fill:#73ccfa;fill-opacity:1;stroke:none;stroke-width:16;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6969-0"
@@ -3543,8 +3488,8 @@
     <circle
        style="display:inline;opacity:1;fill:#ff0000;fill-opacity:0.705882;stroke:#ff0000;stroke-width:0.993378;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5543-7-40-2-2-9-5"
-       cx="1559.2637"
-       cy="2710.575"
+       cx="4008.1594"
+       cy="458.51523"
        r="74.503311">
       <desc
          id="desc2659-6">station</desc>
@@ -3552,8 +3497,8 @@
     <circle
        style="display:inline;fill:#ff0000;fill-opacity:0.705882;stroke:#ff0000;stroke-width:0.496689;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5543-7-40-2-2-9-5-4"
-       cx="1718.5629"
-       cy="2721.0969"
+       cx="3969.2871"
+       cy="677.58221"
        r="37.251656">
       <desc
          id="desc2659-6-3">station</desc>
