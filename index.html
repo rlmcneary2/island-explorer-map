@@ -44,6 +44,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
   <body>
     <main class="content">
       <h1>Island Explorer Map</h1>
+
       <section class="sidebar-section">
         <p>
           A "tube-style" map that displays information about the Island Explorer
@@ -91,28 +92,31 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
         </p>
       </section>
 
-      <section class="map-section">
-        <div class="map-container">
-          <a class="map"><img class="map" /></a>
-        </div>
-      </section>
+      <div class="map-sections">
+        <section class="map-section">
+          <div class="map-container">
+            <a class="map"><img class="map" /></a>
+          </div>
+        </section>
+  
+        <section class="map-section">
+          <div class="map-container">
+            <a class="stop"><img class="stop" /></a>
+          </div>
+        </section>
+      </div>
 
-      <section class="map-section">
-        <div class="map-container">
-          <a class="stop"><img class="stop" /></a>
-        </div>
-      </section>
-
-      <section class="license">
-        <p>
-          The map and stops image files are licensed under a
-          <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"
-            >Creative Commons Attribution-ShareAlike 4.0 International
-            License</a
-          >.
-        </p>
-      </section>
     </main>
+
+    <section class="license">
+      <p>
+        The map and stops image files are licensed under a
+        <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"
+          >Creative Commons Attribution-ShareAlike 4.0 International
+          License</a
+        >.
+      </p>
+    </section>
 
     <script>
       var setElements = function (className, option) {
