@@ -30,6 +30,10 @@ li {
   margin-right: 20px;
 }
 
+.layout {
+  display: flex;
+}
+
 .map-sections {
   flex: 0 0 450px;
 }
@@ -68,16 +72,22 @@ img.stop {
   margin-right: 15px;
 }
 
-@media (width <= 700px) {
+@media screen and (max-width: 700px) {
+  h1 {
+    text-align: center;
+  }
+
+  .layout {
+    flex-direction: column-reverse;
+  }
+
   .map-sections {
     flex: 100%;
-    order: 1;
   }
 
   .sidebar-section {
     flex: 100%;
     margin-right: initial;
     max-width: initial;
-    order: 2;
   }
 }
