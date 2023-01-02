@@ -137,11 +137,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="524.5"
-     inkscape:cy="673.5"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="339.41125"
+     inkscape:cy="364.15999"
      inkscape:document-units="in"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="layer14"
      showgrid="true"
      units="px"
      inkscape:window-width="1536"
@@ -209,6 +209,11 @@
        empopacity="0.49803922"
        enabled="false"
        visible="true" />
+    <sodipodi:guide
+       position="41.1668,79.9975"
+       orientation="0,-1"
+       id="guide162579"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -887,7 +892,7 @@
      transform="translate(5019.8157,2745)">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#9e9e9e;stroke-width:0.669999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4993.3141,-2731.9958 0,39.3294 c -0.01,0.7484 0.6666,1.3332 1.3332,1.3332 h 49.6637"
+       d="m -5016.3118,-2714.6642 22.9977,22.9977 c 0.3333,0.3333 0.6666,0.3333 1.3332,0.3333 h 49.6637"
        id="path4999"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -975,118 +980,118 @@
     <path
        id="path4979-3-4-4-1-2-7-4-0"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#9e9e9e;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4992.3142,-2697.9987 -0.9999,-5e-4"
+       d="m -4995.6472,-2693.9996 0.7073,-0.7067"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       id="path4979-3-4-4-1-2-7-4-0-1"
+       id="path4979-3-4-4-1-2-7-4-0-8"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#9e9e9e;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4992.314,-2703.9981 -0.9999,-5e-4"
+       d="m -4998.0006,-2696.3327 0.7073,-0.7067"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       id="path4979-3-4-4-1-2-7-4-0-15"
+       id="path4979-3-4-4-1-2-7-4-0-8-5"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#9e9e9e;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4992.3142,-2709.9975 -0.9999,-5e-4"
+       d="m -5000.3134,-2698.6658 0.7073,-0.7067"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       id="path4979-3-4-4-1-2-7-4-0-0"
+       id="path4979-3-4-4-1-2-7-4-0-8-5-7"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#9e9e9e;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4992.3142,-2726.9958 -0.9999,-5e-4"
+       d="m -5010.9993,-2709.3113 0.7073,-0.7067"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       id="path4979-3-4-4-1-2-7-4-0-0-0"
+       id="path4979-3-4-4-1-2-7-4-0-8-5-3"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#9e9e9e;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4992.3142,-2729.6622 -0.9999,-5e-4"
+       d="m -5013.6454,-2711.9978 0.7073,-0.7067"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        id="text1651-9-4-8-5-1-7-7-2-5-1-92-3-1-38"
-       y="-2697.7058"
-       x="-4990.1782"
+       y="-2694.7061"
+       x="-4992.5112"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.833333px;line-height:105.4%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="-2697.7058"
-         x="-4990.1782"
+         y="-2694.7061"
+         x="-4992.5112"
          sodipodi:role="line"
          style="font-size:0.833333px;text-align:center;text-anchor:middle"
          id="tspan119188-7-6">Town Hill</tspan></text>
     <text
        id="text1651-9-4-8-5-1-7-7-2-5-1-92-3-1-38-9"
-       y="-2703.7053"
-       x="-4989.9688"
+       y="-2697.0393"
+       x="-4994.6348"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.833333px;line-height:105.4%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="-2703.7053"
-         x="-4989.9688"
+         y="-2697.0393"
+         x="-4994.6348"
          sodipodi:role="line"
          style="font-size:0.833333px;text-align:center;text-anchor:middle"
          id="tspan119188-7-6-9">Terramore</tspan></text>
     <text
        id="text1651-9-4-8-5-1-7-7-2-5-1-92-3-1-38-9-8"
-       y="-2727.2249"
-       x="-4992.0205"
+       y="-2710.5598"
+       x="-5009.6851"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.833333px;line-height:105.4%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="-2727.2249"
-         x="-4992.0205"
+         y="-2710.5598"
+         x="-5009.6851"
          sodipodi:role="line"
          style="font-size:0.833333px;text-align:start;text-anchor:start"
          id="tspan119188-7-6-9-0">Narrows Too</tspan><tspan
-         y="-2726.3464"
-         x="-4992.0205"
+         y="-2709.6814"
+         x="-5009.6851"
          sodipodi:role="line"
          style="font-size:0.833333px;text-align:start;text-anchor:start"
          id="tspan148290">Campground</tspan></text>
     <text
        id="text1651-9-4-8-5-1-7-7-2-5-1-92-3-1-38-9-8-6"
-       y="-2729.8857"
-       x="-4991.981"
+       y="-2713.2207"
+       x="-5012.312"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.833333px;line-height:105.4%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="-2729.8857"
-         x="-4991.981"
+         y="-2713.2207"
+         x="-5012.312"
          sodipodi:role="line"
          style="font-size:0.833333px;text-align:start;text-anchor:start"
          id="tspan148290-9">Bar Harbor</tspan><tspan
-         y="-2729.0073"
-         x="-4991.981"
+         y="-2712.3423"
+         x="-5012.312"
          sodipodi:role="line"
          style="font-size:0.833333px;text-align:start;text-anchor:start"
          id="tspan149076">Airport</tspan></text>
     <text
        id="text1651-9-4-8-5-1-7-7-2-5-1-92-3-1-38-9-8-6-0"
-       y="-2732.8379"
-       x="-4997.9512"
+       y="-2715.1152"
+       x="-5015.312"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.833333px;line-height:105.4%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="-2732.8379"
-         x="-4997.9512"
+         y="-2715.1152"
+         x="-5015.312"
          sodipodi:role="line"
          style="font-size:0.833333px;text-align:start;text-anchor:start"
          id="tspan149076-4">Acadia Gateway Center</tspan></text>
     <text
        id="text1651-9-4-8-5-1-7-7-2-5-1-92-3-1-38-9-6"
-       y="-2710.2214"
-       x="-4992.0205"
+       y="-2699.8892"
+       x="-4999.0195"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.833333px;line-height:105.4%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="-2710.2214"
-         x="-4992.0205"
+         y="-2699.8892"
+         x="-4999.0195"
          sodipodi:role="line"
          style="font-size:0.833333px;text-align:start;text-anchor:start"
          id="tspan119188-7-6-9-3">Bar Harbor KOA</tspan><tspan
-         y="-2709.343"
-         x="-4992.0205"
+         y="-2699.0107"
+         x="-4999.0195"
          sodipodi:role="line"
          style="font-size:0.833333px;text-align:start;text-anchor:start"
          id="tspan146738">Campground</tspan></text>
     <path
        id="path4979-3-4-4-7-7-6-0-2-8"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#9e9e9e;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4992.6476,-2732.0288 -1.333,-3e-4"
+       d="m -5016.7831,-2714.193 0.9426,-0.9423"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
   </g>
