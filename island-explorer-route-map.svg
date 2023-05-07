@@ -27,7 +27,7 @@
     <color-profile
        name="sRGB-IEC61966-2.1"
        xlink:href="file:///C:/WINDOWS/system32/spool/drivers/color/sRGB%20Color%20Space%20Profile.icm"
-       id="color-profile17065" />
+       id="color-profile1752" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect5534"
@@ -950,10 +950,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="628"
-     inkscape:cy="586"
+     inkscape:cx="482.5"
+     inkscape:cy="432"
      inkscape:document-units="in"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer11"
      showgrid="true"
      units="px"
      inkscape:window-width="1536"
@@ -1101,15 +1101,15 @@
        y="0"><tspan
          x="390.44299"
          y="888.42648"
-         id="tspan17662"><tspan
+         id="tspan2349"><tspan
            style="font-style:italic;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Italic';text-align:center"
-           id="tspan17660">Somes
+           id="tspan2347">Somes
 </tspan></tspan><tspan
          x="390.88398"
          y="903.48068"
-         id="tspan17666"><tspan
+         id="tspan2353"><tspan
            style="font-style:italic;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Italic';text-align:center"
-           id="tspan17664">Sound</tspan></tspan></text>
+           id="tspan2351">Sound</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.10416667,0,0,0.10416667,-33.782088,-52.795589)"
@@ -1119,9 +1119,9 @@
        y="0"><tspan
          x="374.00298"
          y="888.42648"
-         id="tspan17670"><tspan
+         id="tspan2357"><tspan
            style="font-style:italic;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Italic';text-align:center"
-           id="tspan17668">Blue Hill Bay</tspan></tspan></text>
+           id="tspan2355">Blue Hill Bay</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.10416667,0,0,0.10416667,52.859493,-46.806599)"
@@ -1131,9 +1131,9 @@
        y="0"><tspan
          x="365.972"
          y="888.42648"
-         id="tspan17674"><tspan
+         id="tspan2361"><tspan
            style="font-style:italic;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Italic';text-align:center"
-           id="tspan17672">Frenchman Bay</tspan></tspan></text>
+           id="tspan2359">Frenchman Bay</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2375,10 +2375,10 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#9180e7;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4963.6504,-2681.0009 v -42.9957 h 17.9982 c 0.6666,0 1.3332,0.6666 1.3332,1.3332 v 23.331"
+       d="m -4963.6504,-2681.0009 v -42.9957"
        id="path4990"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="cc" />
     <path
        id="path4979-3-4-4-7-5-2"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#9180e7;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2766,9 +2766,9 @@
        style="font-style:normal;font-weight:normal;font-size:60px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect16611);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="561.17578"
          y="-128.68752"
-         id="tspan17678"><tspan
+         id="tspan2365"><tspan
            style="font-weight:600;font-family:Rubik;-inkscape-font-specification:'Rubik Semi-Bold'"
-           id="tspan17676">2023</tspan></tspan></text>
+           id="tspan2363">2023</tspan></tspan></text>
     <path
        style="fill:none;stroke:#323232;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 88.1621,8.806151 c 0,0 21.8379,0 21.8379,0"
@@ -2785,9 +2785,9 @@
        y="0"><tspan
          x="213.52374"
          y="74.806616"
-         id="tspan17682"><tspan
+         id="tspan2369"><tspan
            style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-           id="tspan17680">Island Explorer route map</tspan></tspan></text>
+           id="tspan2367">Island Explorer route map</tspan></tspan></text>
     <g
        id="layer1-1"
        inkscape:label="Layer 1"
@@ -2800,9 +2800,9 @@
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="120.0293"
          y="828.37067"
-         id="tspan17686"><tspan
+         id="tspan2373"><tspan
            style="font-style:italic;font-family:Lato;-inkscape-font-specification:'Lato Italic'"
-           id="tspan17684">Copyright Richard L. McNeary II</tspan></tspan></text>
+           id="tspan2371">Copyright Richard L. McNeary II</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.10416667,0,0,0.10416667,39.274887,-3.8383808)"
@@ -2812,9 +2812,9 @@
        y="0"><tspan
          x="241.46213"
          y="828.37067"
-         id="tspan17690"><tspan
+         id="tspan2377"><tspan
            style="font-weight:bold;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:end"
-           id="tspan17688">https://islandexplorermap.com</tspan></tspan></text>
+           id="tspan2375">https://islandexplorermap.com</tspan></tspan></text>
     <rect
        style="mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.05;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:2.112;paint-order:markers fill stroke"
        id="rect2861"
@@ -2838,9 +2838,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan17694"><tspan
+           id="tspan2381"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan17692">Bicycle Express</tspan></tspan></text>
+             id="tspan2379">Bicycle Express</tspan></tspan></text>
     </g>
     <g
        id="g17526"
@@ -2852,9 +2852,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan17698"><tspan
+           id="tspan2385"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan17696">Tremont</tspan></tspan></text>
+             id="tspan2383">Tremont</tspan></tspan></text>
       <g
          id="g17517"
          transform="translate(0.04114189,0.04963906)">
@@ -2873,9 +2873,9 @@
            y="0"><tspan
              x="266.7222"
              y="828.15773"
-             id="tspan17702"><tspan
+             id="tspan2389"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan17700">11</tspan></tspan></text>
+               id="tspan2387">11</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -2888,9 +2888,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan17706"><tspan
+           id="tspan2393"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan17704">Blackwoods</tspan></tspan></text>
+             id="tspan2391">Blackwoods</tspan></tspan></text>
       <g
          id="g17568">
         <circle
@@ -2908,9 +2908,9 @@
            y="0"><tspan
              x="265.42887"
              y="828.15773"
-             id="tspan17710"><tspan
+             id="tspan2397"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan17708">10</tspan></tspan></text>
+               id="tspan2395">10</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -2923,9 +2923,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1-2);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan17714"><tspan
+           id="tspan2401"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan17712">Trenton</tspan></tspan></text>
+             id="tspan2399">Trenton</tspan></tspan></text>
       <g
          id="g17553"
          transform="translate(-0.01334015,-0.01207357)">
@@ -2944,9 +2944,9 @@
            y="0"><tspan
              x="268.53218"
              y="828.15773"
-             id="tspan17718"><tspan
+             id="tspan2405"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan17716">9</tspan></tspan></text>
+               id="tspan2403">9</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -2959,9 +2959,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1-2-0);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan17722"><tspan
+           id="tspan2409"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan17720">Schoodic</tspan></tspan></text>
+             id="tspan2407">Schoodic</tspan></tspan></text>
       <g
          id="g17595"
          transform="translate(0.02798816,0.1090906)">
@@ -2980,9 +2980,9 @@
            y="0"><tspan
              x="268.27218"
              y="828.15773"
-             id="tspan17726"><tspan
+             id="tspan2413"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan17724">8</tspan></tspan></text>
+               id="tspan2411">8</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -2995,9 +2995,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1-2-0-7);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan17730"><tspan
+           id="tspan2417"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan17728">Southwest Harbor</tspan></tspan></text>
+             id="tspan2415">Southwest Harbor</tspan></tspan></text>
       <g
          id="g17620"
          transform="translate(-0.14477185,0.04963636)">
@@ -3016,9 +3016,9 @@
            y="0"><tspan
              x="269.02552"
              y="828.15773"
-             id="tspan17734"><tspan
+             id="tspan2421"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan17732">7</tspan></tspan></text>
+               id="tspan2419">7</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3031,9 +3031,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1-2-0-7-7);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan17738"><tspan
+           id="tspan2425"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan17736">Northeast Harbor</tspan></tspan></text>
+             id="tspan2423">Northeast Harbor</tspan></tspan></text>
       <g
          id="g17638"
          transform="translate(0.23685809,0.05727275)">
@@ -3052,9 +3052,9 @@
            y="0"><tspan
              x="268.46551"
              y="828.15773"
-             id="tspan17742"><tspan
+             id="tspan2429"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan17740">6</tspan></tspan></text>
+               id="tspan2427">6</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3067,9 +3067,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1-2-0-7-7-7);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan17746"><tspan
+           id="tspan2433"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan17744">Jordan Pond</tspan></tspan></text>
+             id="tspan2431">Jordan Pond</tspan></tspan></text>
       <g
          id="g17652"
          transform="translate(-0.10616711,0.05803733)">
@@ -3088,9 +3088,9 @@
            y="0"><tspan
              x="268.51218"
              y="828.15773"
-             id="tspan17750"><tspan
+             id="tspan2437"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan17748">5</tspan></tspan></text>
+               id="tspan2435">5</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3103,9 +3103,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1-2-0-7-7-7-9);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan17754"><tspan
+           id="tspan2441"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan17752">Loop Road</tspan></tspan></text>
+             id="tspan2439">Loop Road</tspan></tspan></text>
       <g
          id="g17670"
          transform="translate(0.04819843,0.05196751)">
@@ -3124,9 +3124,9 @@
            y="0"><tspan
              x="268.29885"
              y="828.15773"
-             id="tspan17758"><tspan
+             id="tspan2445"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan17756">4</tspan></tspan></text>
+               id="tspan2443">4</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3139,9 +3139,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1-2-0-7-7-7-9-1);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan17762"><tspan
+           id="tspan2449"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan17760">Sand Beach</tspan></tspan></text>
+             id="tspan2447">Sand Beach</tspan></tspan></text>
       <g
          id="g17688"
          transform="translate(-0.0577052,0.12555466)">
@@ -3160,9 +3160,9 @@
            y="0"><tspan
              x="268.44552"
              y="828.15773"
-             id="tspan17766"><tspan
+             id="tspan2453"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan17764">3</tspan></tspan></text>
+               id="tspan2451">3</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3175,9 +3175,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1-2-0-7-7-7-9-1-9);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan17770"><tspan
+           id="tspan2457"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan17768">Eden Street</tspan></tspan></text>
+             id="tspan2455">Eden Street</tspan></tspan></text>
       <g
          id="g17706">
         <circle
@@ -3195,9 +3195,9 @@
            y="0"><tspan
              x="268.51886"
              y="828.15773"
-             id="tspan17774"><tspan
+             id="tspan2461"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan17772">2</tspan></tspan></text>
+               id="tspan2459">2</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3210,9 +3210,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1-2-0-7-7-7-9-1-9-7);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan17778"><tspan
+           id="tspan2465"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan17776">Bar Harbor Road</tspan></tspan></text>
+             id="tspan2463">Bar Harbor Road</tspan></tspan></text>
       <g
          id="g17724">
         <circle
@@ -3230,9 +3230,9 @@
            y="0"><tspan
              x="269.55885"
              y="828.15773"
-             id="tspan17782"><tspan
+             id="tspan2469"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan17780">1</tspan></tspan></text>
+               id="tspan2467">1</tspan></tspan></text>
       </g>
     </g>
     <rect
@@ -3387,9 +3387,9 @@
          y="0"><tspan
            x="1091.4087"
            y="547.83997"
-           id="tspan17786"><tspan
+           id="tspan2473"><tspan
              style="font-weight:bold;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff"
-             id="tspan17784">Key to routes</tspan></tspan></text>
+             id="tspan2471">Key to routes</tspan></tspan></text>
     </g>
   </g>
   <g
@@ -3414,15 +3414,15 @@
        y="0"><tspan
          x="334.97198"
          y="913.97173"
-         id="tspan17790"><tspan
+         id="tspan2477"><tspan
            style="font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans';text-align:center;text-anchor:middle"
-           id="tspan17788">Seawall
+           id="tspan2475">Seawall
 </tspan></tspan><tspan
          x="283.30202"
          y="964.15227"
-         id="tspan17794"><tspan
+         id="tspan2481"><tspan
            style="font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans';text-align:center;text-anchor:middle"
-           id="tspan17792">Campground</tspan></tspan></text>
+           id="tspan2479">Campground</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.10416667,0,0,0.10416667,-5051.0927,-2729.2778)"
@@ -3432,15 +3432,15 @@
        y="0"><tspan
          x="333.85194"
          y="914.51039"
-         id="tspan17798"><tspan
+         id="tspan2485"><tspan
            style="font-family:Mulish;-inkscape-font-specification:Mulish;text-align:center;text-anchor:middle"
-           id="tspan17796">Seawall
+           id="tspan2483">Seawall
 </tspan></tspan><tspan
          x="287.0083"
          y="965.04902"
-         id="tspan17802"><tspan
+         id="tspan2489"><tspan
            style="font-family:Mulish;-inkscape-font-specification:Mulish;text-align:center;text-anchor:middle"
-           id="tspan17800">Campground</tspan></tspan></text>
+           id="tspan2487">Campground</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.10416667,0,0,0.10416667,-5015.6,-2728.9118)"
@@ -3450,15 +3450,15 @@
        y="0"><tspan
          x="341.03193"
          y="914.67852"
-         id="tspan17806"><tspan
+         id="tspan2493"><tspan
            style="font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle"
-           id="tspan17804">Seawall
+           id="tspan2491">Seawall
 </tspan></tspan><tspan
          x="293.67204"
          y="965.3853"
-         id="tspan17810"><tspan
+         id="tspan2497"><tspan
            style="font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle"
-           id="tspan17808">Campground</tspan></tspan></text>
+           id="tspan2495">Campground</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.10416667,0,0,0.10416667,-4985.2786,-2729.4606)"
@@ -3468,15 +3468,15 @@
        y="0"><tspan
          x="335.29199"
          y="913.97173"
-         id="tspan17814"><tspan
+         id="tspan2501"><tspan
            style="font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans';text-align:center;text-anchor:middle"
-           id="tspan17812">Seawall
+           id="tspan2499">Seawall
 </tspan></tspan><tspan
          x="291.15194"
          y="965.81682"
-         id="tspan17818"><tspan
+         id="tspan2505"><tspan
            style="font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans';text-align:center;text-anchor:middle"
-           id="tspan17816">Campground</tspan></tspan></text>
+           id="tspan2503">Campground</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.10416667,0,0,0.10416667,-5014.0163,-2743.9921)"
@@ -3486,15 +3486,15 @@
        y="0"><tspan
          x="337.77246"
          y="913.97173"
-         id="tspan17822"><tspan
+         id="tspan2509"><tspan
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
-           id="tspan17820">Seawall
+           id="tspan2507">Seawall
 </tspan></tspan><tspan
          x="285.49707"
          y="964.07018"
-         id="tspan17826"><tspan
+         id="tspan2513"><tspan
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
-           id="tspan17824">Campground</tspan></tspan></text>
+           id="tspan2511">Campground</tspan></tspan></text>
     <g
        id="g16296"
        transform="translate(0.43002828,0.0172219)"
