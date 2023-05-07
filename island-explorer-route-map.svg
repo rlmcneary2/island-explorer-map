@@ -27,7 +27,7 @@
     <color-profile
        name="sRGB-IEC61966-2.1"
        xlink:href="file:///C:/WINDOWS/system32/spool/drivers/color/sRGB%20Color%20Space%20Profile.icm"
-       id="color-profile13077" />
+       id="color-profile17065" />
     <inkscape:path-effect
        effect="bspline"
        id="path-effect5534"
@@ -930,6 +930,17 @@
        apply_no_weight="true"
        apply_with_weight="true"
        only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect863-3-6-3-1-9-2"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -938,11 +949,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="543.05801"
-     inkscape:cy="321.73358"
+     inkscape:zoom="1"
+     inkscape:cx="628"
+     inkscape:cy="586"
      inkscape:document-units="in"
-     inkscape:current-layer="g5530"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="px"
      inkscape:window-width="1536"
@@ -1090,15 +1101,15 @@
        y="0"><tspan
          x="390.44299"
          y="888.42648"
-         id="tspan13666"><tspan
+         id="tspan17662"><tspan
            style="font-style:italic;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Italic';text-align:center"
-           id="tspan13664">Somes
+           id="tspan17660">Somes
 </tspan></tspan><tspan
          x="390.88398"
          y="903.48068"
-         id="tspan13670"><tspan
+         id="tspan17666"><tspan
            style="font-style:italic;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Italic';text-align:center"
-           id="tspan13668">Sound</tspan></tspan></text>
+           id="tspan17664">Sound</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.10416667,0,0,0.10416667,-33.782088,-52.795589)"
@@ -1108,9 +1119,9 @@
        y="0"><tspan
          x="374.00298"
          y="888.42648"
-         id="tspan13674"><tspan
+         id="tspan17670"><tspan
            style="font-style:italic;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Italic';text-align:center"
-           id="tspan13672">Blue Hill Bay</tspan></tspan></text>
+           id="tspan17668">Blue Hill Bay</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.10416667,0,0,0.10416667,52.859493,-46.806599)"
@@ -1120,9 +1131,9 @@
        y="0"><tspan
          x="365.972"
          y="888.42648"
-         id="tspan13678"><tspan
+         id="tspan17674"><tspan
            style="font-style:italic;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Italic';text-align:center"
-           id="tspan13676">Frenchman Bay</tspan></tspan></text>
+           id="tspan17672">Frenchman Bay</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1985,23 +1996,16 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#f3b209;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4962.9838,-2724.3324 v 30.3328 c 0,0.9999 0.9999,1.9998 1.9998,1.9998 h 5.6661 c 0.6901,-0.034 1.3332,0.6666 1.3332,1.3332 v 1.6665 h 7.9992 c 0.9999,0 1.9998,0.9999 1.9998,1.9998 v 1.3332 6.666 c 0,0.6666 0,0.9999 -0.3313,1.3332 l -6.3327,6.3327 c -0.3353,0.3353 -0.6686,0.3333 -1.3352,0.3358 h -9.6657 c -0.6666,0 -1.3332,-0.6691 -1.3332,-1.3357 v -26.9973"
+       d="m -4962.9838,-2724.3324 v 30.3328 c 0,0.9999 0.9999,1.9998 1.9998,1.9998 h 5.6661 c 0.6901,-0.034 1.3332,0.6666 1.3332,1.3332 v 1.6665 h 7.9992 c 0.9999,0 1.9998,0.9999 1.9998,1.9998 v 1.3332 6.666 c 0,0.6606 -0.1581,1.1579 -0.4766,1.4764 l -6.1874,6.1895 c -0.3353,0.3353 -0.6686,0.3333 -1.3352,0.3358 h -9.6657 c -0.6666,0 -1.3332,-0.6691 -1.3332,-1.3357 v -26.9973"
        id="path4743"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccc" />
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4945.6522,-2677.6679 c 0,0 0,1.3332 0,1.3332 0,0 1.3331,0 1.3331,0"
-       id="path861-1-3"
-       sodipodi:nodetypes="ccc"
-       inkscape:original-d="m -4945.6522,-2677.6679 v 1.3332 h 1.3331"
-       inkscape:path-effect="#path-effect863-3-0" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4949.3185,-2674.0016 c 0,0 0,1.3332 0,1.3332 0,0 1.3331,0 1.3331,0"
+       d="m -4948.6519,-2674.6682 c 0,0 0,1.3332 0,1.3332 0,0 1.3331,0 1.3331,0"
        id="path861-1-3-6"
        sodipodi:nodetypes="ccc"
-       inkscape:original-d="m -4949.3185,-2674.0016 v 1.3332 h 1.3331"
+       inkscape:original-d="m -4948.6519,-2674.6682 v 1.3332 h 1.3331"
        inkscape:path-effect="#path-effect863-3-0-5" />
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
@@ -2161,26 +2165,24 @@
   <g
      inkscape:groupmode="layer"
      id="layer19"
-     inkscape:label="sand beach - south"
+     inkscape:label="sand beach - east"
      style="display:inline"
      sodipodi:insensitive="true">
     <path
        id="path4654"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#276d4b;stroke-width:0.669999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="translate(5019.8157,2745)"
-       d="m -4943.9857,-2699.6667 v 5.6661 c 0,0.9999 -0.9999,1.9998 -1.9998,1.9998 h -0.3333 c -0.6666,0 -0.9999,0 -1.3332,0.3333 m -1.3332,3.334 c -0.6666,0 -0.9999,0 -1.3322,-0.3323 m 2.6654,-3.0017 -4.6662,4.6662 c -0.3333,0.3333 -0.3333,0.6676 -0.3333,1.3342 v 4.6662 c 0,0.6666 0.6666,1.3322 1.3332,1.3322 l 5.3328,-4e-4 c 0.6666,0 1.3362,-0.6668 1.3332,-1.3318 v -5.9994 c 0,-0.6666 -0.6696,-1.3352 -1.3362,-1.3352 h -2.9967 c -0.6666,0 -0.9999,0 -1.3322,-0.3323"
-       sodipodi:nodetypes="csssccccssscccsssc">
+       d="m 75.83,45.3343 v 3.334 c 0,0.6666 0.001,0.9999 -0.3333,1.3332 l -7.9992,7.9982 c -0.3333,0.3333 -0.3333,0.6676 -0.3333,1.3342 v 2.9987 c 0,0.6666 0.02434,1.048582 0.3333,1.357541 l 4.642441,4.642441 c 0.471358,0.471358 0.942547,0.471189 1.413938,-2.01e-4 l 1.280643,-1.28064 C 75.167822,66.718441 75.1634,66.3322 75.1634,65.6656 v -7.6649 c 0,-0.6666 -0.6696,-1.3352 -1.3362,-1.3352 h -2.9967 c -0.6666,0 -0.9999,0 -1.3322,-0.3323 m 1.3322,0.3343 c -0.6666,0 -0.9999,0 -1.3322,-0.3323"
+       sodipodi:nodetypes="ccccssccsccsssccc">
       <desc
          id="desc4652">Sand Beach route</desc>
     </path>
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4947.7092,-2680.6104 c 0,0 -0.9427,0.9427 -0.9427,0.9427 0,0 0.9427,0.9427 0.9427,0.9427"
+       d="m 71.49708,66.3322 c 0,0 -1.33318,0 -1.33318,0 0,0 0,1.333179 0,1.333179"
        id="path861-1-2"
        sodipodi:nodetypes="ccc"
-       inkscape:original-d="m -4947.7092,-2680.6104 -0.9427,0.9427 0.9427,0.9427"
-       inkscape:path-effect="#path-effect863-3-6"
-       transform="translate(5019.8157,2745)" />
+       inkscape:original-d="M 71.49708,66.3322 H 70.1639 v 1.333179"
+       inkscape:path-effect="#path-effect863-3-6" />
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 68.1069,62.2754 c 0,0 -0.9427,-0.9427 -0.9427,-0.9427 0,0 -0.9427,0.9427 -0.9427,0.9427"
@@ -2190,10 +2192,10 @@
        inkscape:path-effect="#path-effect863-3-6-3" />
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 76.7727,49.9433 c 0,0 -0.9427,-0.9427 -0.9427,-0.9427 0,0 -0.9427,0.9427 -0.9427,0.9427"
+       d="m 76.7727,48.6101 c 0,0 -0.9427,-0.9427 -0.9427,-0.9427 0,0 -0.9427,0.9427 -0.9427,0.9427"
        id="path861-1-2-78-8"
        sodipodi:nodetypes="ccc"
-       inkscape:original-d="M 76.7727,49.9433 75.83,49.0006 74.8873,49.9433"
+       inkscape:original-d="M 76.7727,48.6101 75.83,47.6674 74.8873,48.6101"
        inkscape:path-effect="#path-effect863-3-6-3-9" />
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
@@ -2204,19 +2206,18 @@
        inkscape:path-effect="#path-effect863-3-6-3-1" />
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 72.887499,53.9429 c 0,0 0.942701,-0.9427 0.942701,-0.9427 0,0 -0.9427,-0.9427 -0.9427,-0.9427"
-       id="path861-1-2-78-2-9"
-       sodipodi:nodetypes="ccc"
-       inkscape:original-d="M 72.887499,53.9429 73.8302,53.0002 72.8875,52.0575"
-       inkscape:path-effect="#path-effect863-3-6-3-1-4" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4948.8753,-2689.7766 c 0,0 0,-0.6666 0,-0.6666 0,0 -1.3332,0 -1.3332,0"
+       d="m 71.3221,54.8417 c 0,0 0,-0.6666 0,-0.6666 0,0 -1.3332,0 -1.3332,0"
        id="path861-1-2-78-2-1"
        sodipodi:nodetypes="ccc"
-       inkscape:original-d="m -4948.8753,-2689.7766 v -0.6666 h -1.3332"
-       inkscape:path-effect="#path-effect863-3-6-3-1-9"
-       transform="translate(5019.8157,2745)" />
+       inkscape:original-d="M 71.3221,54.8417 V 54.1751 H 69.9889"
+       inkscape:path-effect="#path-effect863-3-6-3-1-9" />
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 74.3218,51.842 c 0,0 0,-0.6666 0,-0.6666 0,0 -1.3332,0 -1.3332,0"
+       id="path861-1-2-78-2-1-2"
+       sodipodi:nodetypes="ccc"
+       inkscape:original-d="M 74.3218,51.842 V 51.1754 H 72.9886"
+       inkscape:path-effect="#path-effect863-3-6-3-1-9-2" />
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 71.8876,57.2759 c 0,0 0.9427,-0.9427 0.9427,-0.9427 0,0 -0.9427,-0.9427 -0.9427,-0.9427"
@@ -2226,11 +2227,52 @@
        inkscape:path-effect="#path-effect863-3-8" />
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 74.554,60.7233 c 0,0 0.9427,0.9427 0.9427,0.9427 0,0 0.9427,-0.9427 0.9427,-0.9427"
+       d="m 74.554,63.3897 c 0,0 0.9427,0.9427 0.9427,0.9427 0,0 0.9427,-0.9427 0.9427,-0.9427"
        id="path861-1"
        sodipodi:nodetypes="ccc"
-       inkscape:original-d="m 74.554,60.7233 0.9427,0.9427 0.9427,-0.9427"
+       inkscape:original-d="m 74.554,63.3897 0.9427,0.9427 0.9427,-0.9427"
        inkscape:path-effect="#path-effect863-3" />
+    <path
+       id="path4979-3-4-4-0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#276d4b;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -4944.6523,-2682.3351 h 1.6665"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       transform="translate(5019.8157,2745)" />
+    <path
+       id="path4979-3-4-4-0-5"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#276d4b;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 75.1634,65.6656 h 1.6665"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path4979-3-4-4-0-5-8"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#276d4b;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 75.649171,68.59388 74.470777,67.415486"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text1651-9-4-8-5-1-1-9-39-9-9"
+       y="66.022888"
+       x="77.13063"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.972222px;line-height:105.4%;font-family:Lato;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="66.022888"
+         x="77.13063"
+         sodipodi:role="line"
+         style="font-size:0.972222px;text-align:start;text-anchor:start"
+         id="tspan56045-6-1-1">Otter Cliffs</tspan></text>
+    <text
+       id="text1651-9-4-8-5-1-1-9-39-9-9-6"
+       y="69.539589"
+       x="75.837379"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.972222px;line-height:105.4%;font-family:Lato;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="69.539589"
+         x="75.837379"
+         sodipodi:role="line"
+         style="font-size:0.972222px;text-align:start;text-anchor:start"
+         id="tspan56045-6-1-1-3">Fabbri</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2267,17 +2309,6 @@
        d="m -2963.9846,68.698203 1.333,3e-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <text
-       id="text1651-9-4-8-5-1-1-9-39-9-9"
-       y="66.296036"
-       x="-2952.6887"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.972222px;line-height:105.4%;font-family:Lato;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="66.296036"
-         x="-2952.6887"
-         sodipodi:role="line"
-         style="font-size:0.972222px;text-align:start;text-anchor:start"
-         id="tspan56045-6-1-1">Otter Cliffs</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2309,12 +2340,6 @@
          id="path63916-2-7"
          sodipodi:nodetypes="cc" />
     </g>
-    <path
-       id="path4979-3-4-4-0"
-       style="fill:none;fill-rule:evenodd;stroke:#276d4b;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4944.6523,-2682.3351 h 1.6665"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
     <text
        id="text1651-9-4-8-5-1-1-9-39-9"
        y="-2682.0415"
@@ -2741,9 +2766,9 @@
        style="font-style:normal;font-weight:normal;font-size:60px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect16611);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="561.17578"
          y="-128.68752"
-         id="tspan13682"><tspan
+         id="tspan17678"><tspan
            style="font-weight:600;font-family:Rubik;-inkscape-font-specification:'Rubik Semi-Bold'"
-           id="tspan13680">2023</tspan></tspan></text>
+           id="tspan17676">2023</tspan></tspan></text>
     <path
        style="fill:none;stroke:#323232;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 88.1621,8.806151 c 0,0 21.8379,0 21.8379,0"
@@ -2760,9 +2785,9 @@
        y="0"><tspan
          x="213.52374"
          y="74.806616"
-         id="tspan13686"><tspan
+         id="tspan17682"><tspan
            style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-           id="tspan13684">Island Explorer route map</tspan></tspan></text>
+           id="tspan17680">Island Explorer route map</tspan></tspan></text>
     <g
        id="layer1-1"
        inkscape:label="Layer 1"
@@ -2775,9 +2800,9 @@
        style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="120.0293"
          y="828.37067"
-         id="tspan13690"><tspan
+         id="tspan17686"><tspan
            style="font-style:italic;font-family:Lato;-inkscape-font-specification:'Lato Italic'"
-           id="tspan13688">Copyright Richard L. McNeary II</tspan></tspan></text>
+           id="tspan17684">Copyright Richard L. McNeary II</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.10416667,0,0,0.10416667,39.274887,-3.8383808)"
@@ -2787,9 +2812,9 @@
        y="0"><tspan
          x="241.46213"
          y="828.37067"
-         id="tspan13694"><tspan
+         id="tspan17690"><tspan
            style="font-weight:bold;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:end"
-           id="tspan13692">https://islandexplorermap.com</tspan></tspan></text>
+           id="tspan17688">https://islandexplorermap.com</tspan></tspan></text>
     <rect
        style="mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.05;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:2.112;paint-order:markers fill stroke"
        id="rect2861"
@@ -2813,9 +2838,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan13698"><tspan
+           id="tspan17694"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan13696">Bicycle Express</tspan></tspan></text>
+             id="tspan17692">Bicycle Express</tspan></tspan></text>
     </g>
     <g
        id="g17526"
@@ -2827,9 +2852,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan13702"><tspan
+           id="tspan17698"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan13700">Tremont</tspan></tspan></text>
+             id="tspan17696">Tremont</tspan></tspan></text>
       <g
          id="g17517"
          transform="translate(0.04114189,0.04963906)">
@@ -2848,9 +2873,9 @@
            y="0"><tspan
              x="266.7222"
              y="828.15773"
-             id="tspan13706"><tspan
+             id="tspan17702"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan13704">11</tspan></tspan></text>
+               id="tspan17700">11</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -2863,9 +2888,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan13710"><tspan
+           id="tspan17706"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan13708">Blackwoods</tspan></tspan></text>
+             id="tspan17704">Blackwoods</tspan></tspan></text>
       <g
          id="g17568">
         <circle
@@ -2883,9 +2908,9 @@
            y="0"><tspan
              x="265.42887"
              y="828.15773"
-             id="tspan13714"><tspan
+             id="tspan17710"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan13712">10</tspan></tspan></text>
+               id="tspan17708">10</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -2898,9 +2923,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1-2);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan13718"><tspan
+           id="tspan17714"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan13716">Trenton</tspan></tspan></text>
+             id="tspan17712">Trenton</tspan></tspan></text>
       <g
          id="g17553"
          transform="translate(-0.01334015,-0.01207357)">
@@ -2919,9 +2944,9 @@
            y="0"><tspan
              x="268.53218"
              y="828.15773"
-             id="tspan13722"><tspan
+             id="tspan17718"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan13720">9</tspan></tspan></text>
+               id="tspan17716">9</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -2934,9 +2959,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1-2-0);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan13726"><tspan
+           id="tspan17722"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan13724">Schoodic</tspan></tspan></text>
+             id="tspan17720">Schoodic</tspan></tspan></text>
       <g
          id="g17595"
          transform="translate(0.02798816,0.1090906)">
@@ -2955,9 +2980,9 @@
            y="0"><tspan
              x="268.27218"
              y="828.15773"
-             id="tspan13730"><tspan
+             id="tspan17726"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan13728">8</tspan></tspan></text>
+               id="tspan17724">8</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -2970,9 +2995,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1-2-0-7);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan13734"><tspan
+           id="tspan17730"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan13732">Southwest Harbor</tspan></tspan></text>
+             id="tspan17728">Southwest Harbor</tspan></tspan></text>
       <g
          id="g17620"
          transform="translate(-0.14477185,0.04963636)">
@@ -2991,9 +3016,9 @@
            y="0"><tspan
              x="269.02552"
              y="828.15773"
-             id="tspan13738"><tspan
+             id="tspan17734"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan13736">7</tspan></tspan></text>
+               id="tspan17732">7</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3006,9 +3031,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1-2-0-7-7);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan13742"><tspan
+           id="tspan17738"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan13740">Northeast Harbor</tspan></tspan></text>
+             id="tspan17736">Northeast Harbor</tspan></tspan></text>
       <g
          id="g17638"
          transform="translate(0.23685809,0.05727275)">
@@ -3027,9 +3052,9 @@
            y="0"><tspan
              x="268.46551"
              y="828.15773"
-             id="tspan13746"><tspan
+             id="tspan17742"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan13744">6</tspan></tspan></text>
+               id="tspan17740">6</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3042,9 +3067,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1-2-0-7-7-7);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan13750"><tspan
+           id="tspan17746"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan13748">Jordan Pond</tspan></tspan></text>
+             id="tspan17744">Jordan Pond</tspan></tspan></text>
       <g
          id="g17652"
          transform="translate(-0.10616711,0.05803733)">
@@ -3063,9 +3088,9 @@
            y="0"><tspan
              x="268.51218"
              y="828.15773"
-             id="tspan13754"><tspan
+             id="tspan17750"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan13752">5</tspan></tspan></text>
+               id="tspan17748">5</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3078,9 +3103,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1-2-0-7-7-7-9);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan13758"><tspan
+           id="tspan17754"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan13756">Loop Road</tspan></tspan></text>
+             id="tspan17752">Loop Road</tspan></tspan></text>
       <g
          id="g17670"
          transform="translate(0.04819843,0.05196751)">
@@ -3099,9 +3124,9 @@
            y="0"><tspan
              x="268.29885"
              y="828.15773"
-             id="tspan13762"><tspan
+             id="tspan17758"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan13760">4</tspan></tspan></text>
+               id="tspan17756">4</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3114,9 +3139,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1-2-0-7-7-7-9-1);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan13766"><tspan
+           id="tspan17762"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan13764">Sand Beach</tspan></tspan></text>
+             id="tspan17760">Sand Beach</tspan></tspan></text>
       <g
          id="g17688"
          transform="translate(-0.0577052,0.12555466)">
@@ -3135,9 +3160,9 @@
            y="0"><tspan
              x="268.44552"
              y="828.15773"
-             id="tspan13770"><tspan
+             id="tspan17766"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan13768">3</tspan></tspan></text>
+               id="tspan17764">3</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3150,9 +3175,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1-2-0-7-7-7-9-1-9);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan13774"><tspan
+           id="tspan17770"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan13772">Eden Street</tspan></tspan></text>
+             id="tspan17768">Eden Street</tspan></tspan></text>
       <g
          id="g17706">
         <circle
@@ -3170,9 +3195,9 @@
            y="0"><tspan
              x="268.51886"
              y="828.15773"
-             id="tspan13778"><tspan
+             id="tspan17774"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan13776">2</tspan></tspan></text>
+               id="tspan17772">2</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3185,9 +3210,9 @@
          style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19825-0-25-8-1-2-0-7-7-7-9-1-9-7);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="120.0293"
            y="829.61073"
-           id="tspan13782"><tspan
+           id="tspan17778"><tspan
              style="font-family:Lato;-inkscape-font-specification:Lato"
-             id="tspan13780">Bar Harbor Road</tspan></tspan></text>
+             id="tspan17776">Bar Harbor Road</tspan></tspan></text>
       <g
          id="g17724">
         <circle
@@ -3205,9 +3230,9 @@
            y="0"><tspan
              x="269.55885"
              y="828.15773"
-             id="tspan13786"><tspan
+             id="tspan17782"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan13784">1</tspan></tspan></text>
+               id="tspan17780">1</tspan></tspan></text>
       </g>
     </g>
     <rect
@@ -3362,9 +3387,9 @@
          y="0"><tspan
            x="1091.4087"
            y="547.83997"
-           id="tspan13790"><tspan
+           id="tspan17786"><tspan
              style="font-weight:bold;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff"
-             id="tspan13788">Key to routes</tspan></tspan></text>
+             id="tspan17784">Key to routes</tspan></tspan></text>
     </g>
   </g>
   <g
@@ -3372,7 +3397,7 @@
      id="layer6"
      inkscape:label="pieces"
      transform="translate(5019.8157,2745)"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
        id="path4979-3-4-4-7-6-2-97-5"
@@ -3389,15 +3414,15 @@
        y="0"><tspan
          x="334.97198"
          y="913.97173"
-         id="tspan13794"><tspan
+         id="tspan17790"><tspan
            style="font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans';text-align:center;text-anchor:middle"
-           id="tspan13792">Seawall
+           id="tspan17788">Seawall
 </tspan></tspan><tspan
          x="283.30202"
          y="964.15227"
-         id="tspan13798"><tspan
+         id="tspan17794"><tspan
            style="font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans';text-align:center;text-anchor:middle"
-           id="tspan13796">Campground</tspan></tspan></text>
+           id="tspan17792">Campground</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.10416667,0,0,0.10416667,-5051.0927,-2729.2778)"
@@ -3407,15 +3432,15 @@
        y="0"><tspan
          x="333.85194"
          y="914.51039"
-         id="tspan13802"><tspan
+         id="tspan17798"><tspan
            style="font-family:Mulish;-inkscape-font-specification:Mulish;text-align:center;text-anchor:middle"
-           id="tspan13800">Seawall
+           id="tspan17796">Seawall
 </tspan></tspan><tspan
          x="287.0083"
          y="965.04902"
-         id="tspan13806"><tspan
+         id="tspan17802"><tspan
            style="font-family:Mulish;-inkscape-font-specification:Mulish;text-align:center;text-anchor:middle"
-           id="tspan13804">Campground</tspan></tspan></text>
+           id="tspan17800">Campground</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.10416667,0,0,0.10416667,-5015.6,-2728.9118)"
@@ -3425,15 +3450,15 @@
        y="0"><tspan
          x="341.03193"
          y="914.67852"
-         id="tspan13810"><tspan
+         id="tspan17806"><tspan
            style="font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle"
-           id="tspan13808">Seawall
+           id="tspan17804">Seawall
 </tspan></tspan><tspan
          x="293.67204"
          y="965.3853"
-         id="tspan13814"><tspan
+         id="tspan17810"><tspan
            style="font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle"
-           id="tspan13812">Campground</tspan></tspan></text>
+           id="tspan17808">Campground</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.10416667,0,0,0.10416667,-4985.2786,-2729.4606)"
@@ -3443,15 +3468,15 @@
        y="0"><tspan
          x="335.29199"
          y="913.97173"
-         id="tspan13818"><tspan
+         id="tspan17814"><tspan
            style="font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans';text-align:center;text-anchor:middle"
-           id="tspan13816">Seawall
+           id="tspan17812">Seawall
 </tspan></tspan><tspan
          x="291.15194"
          y="965.81682"
-         id="tspan13822"><tspan
+         id="tspan17818"><tspan
            style="font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans';text-align:center;text-anchor:middle"
-           id="tspan13820">Campground</tspan></tspan></text>
+           id="tspan17816">Campground</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.10416667,0,0,0.10416667,-5014.0163,-2743.9921)"
@@ -3461,14 +3486,43 @@
        y="0"><tspan
          x="337.77246"
          y="913.97173"
-         id="tspan13826"><tspan
+         id="tspan17822"><tspan
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
-           id="tspan13824">Seawall
+           id="tspan17820">Seawall
 </tspan></tspan><tspan
          x="285.49707"
          y="964.07018"
-         id="tspan13830"><tspan
+         id="tspan17826"><tspan
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
-           id="tspan13828">Campground</tspan></tspan></text>
+           id="tspan17824">Campground</tspan></tspan></text>
+    <g
+       id="g16296"
+       transform="translate(0.43002828,0.0172219)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#ff6d4b;fill-opacity:0.332547;stroke:none;stroke-width:0;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect15402"
+         width="0.66660005"
+         height="0.66660005"
+         x="-1606.442"
+         y="-5388.0815"
+         transform="rotate(-45)" />
+      <rect
+         style="display:inline;fill:#ff6d4b;fill-opacity:0.332547;stroke:none;stroke-width:0;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect15402-6"
+         width="0.66660005"
+         height="0.66660005"
+         x="-1607.1086"
+         y="-5388.0815"
+         transform="rotate(-45)" />
+      <rect
+         style="display:inline;fill:#ff6d4b;fill-opacity:0.332547;stroke:none;stroke-width:0;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect15402-6-1"
+         width="0.66660005"
+         height="0.66660005"
+         x="-1607.1086"
+         y="-5388.748"
+         transform="rotate(-45)" />
+    </g>
   </g>
 </svg>
