@@ -45,8 +45,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1893939"
-     inkscape:cx="620.71972"
-     inkscape:cy="1018.09"
+     inkscape:cx="222.43599"
+     inkscape:cy="1081.5779"
      inkscape:document-units="in"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -102,7 +102,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Mount Desert Island Explorer Stops</dc:title>
+        <dc:title>Mount Desert Island Explorer</dc:title>
         <dc:date>May 13, 2023</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -7020,12 +7020,12 @@
      inkscape:label="footer">
     <text
        xml:space="preserve"
-       transform="matrix(0.10416667,0,0,0.10416667,0.57859793,20.990826)"
        id="text19823"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect19825);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
-         x="120.0293"
-         y="828.37067"
-         id="tspan6616">Copyright Richard L. McNeary II</tspan></text>
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.38889px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       x="13.08165"
+       y="107.27944"><tspan
+         id="tspan3047"
+         style="stroke-width:0.104167">Copyright Richard L. McNeary II</tspan></text>
     <g
        inkscape:export-ydpi="300.23013"
        inkscape:export-xdpi="300.23013"
@@ -7162,22 +7162,19 @@
     </g>
     <text
        xml:space="preserve"
-       transform="matrix(0.10416667,0,0,0.10416667,33.421481,20.971868)"
        id="text19823-7"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;white-space:pre;shape-inside:url(#rect19825-2);display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="570.60864"
-       y="0"><tspan
-         x="241.46213"
-         y="828.37067"
-         id="tspan6618">https://islandexplorermap.com</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.38889px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       x="58.552773"
+       y="107.26048"><tspan
+         id="tspan3049"
+         style="stroke-width:0.104167">https://islandexplorermap.com</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="header"
      transform="translate(1990,2745)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <desc
        id="desc2651">station</desc>
     <desc
@@ -7221,17 +7218,14 @@
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.47222px;font-family:Rubik;-inkscape-font-specification:'Rubik Semi-Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1px">2023</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.27778px;line-height:1.25;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;white-space:pre;inline-size:75.6262;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-1845.481"
-       y="-2740.5625"
-       id="text4885"
-       transform="translate(-72.137083,1.9947506)"><tspan
-         x="-1845.481"
-         y="-2740.5625"
-         id="tspan6622"><tspan
-   style="font-family:Rubik;-inkscape-font-specification:Rubik"
-   id="tspan6620">Island Explorer route stops</tspan><tspan
-   y="-2740.5625"
-   id="tspan6624"></tspan></tspan></text>
+       style="font-style:normal;font-weight:normal;font-size:5.27778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       x="-1985.3556"
+       y="-2738.5679"
+       id="text5823"><tspan
+         sodipodi:role="line"
+         id="tspan5821"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.27778px;font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff;fill-opacity:1;stroke-width:0.104167"
+         x="-1985.3556"
+         y="-2738.5679">Island Explorer route stops</tspan></text>
   </g>
 </svg>
