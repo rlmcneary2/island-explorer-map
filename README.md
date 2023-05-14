@@ -17,6 +17,9 @@ in mind:
   points of interest (trailheads, geographic features, etc.).
 - Fits on a single sheet of letter paper printed on both sides.
 
+Single file [PDF with both routes and stops for
+2023](2023/island-explorer-route-map-2023.pdf) for printing or viewing offline.
+
 The maps and a list of bus stops are stored under directories with names that
 correspond to the year they were created for.
 
