@@ -21,10 +21,10 @@ The maps and a list of bus stops are stored under directories with names that
 correspond to the year they were created for.
 
 ![A "tube-style" map of Island Explorer bus routes in Acadia National
-Park.](2023/island-explorer-route-map.svg "Island Explorer Map")
+Park.](2023/island-explorer-route-map.min.svg "Island Explorer Map")
 
 ![A list of bus stops in Acadia National
-Park.](2023/island-explorer-route-stops.svg "Island Explorer Stops")
+Park.](2023/island-explorer-route-stops.min.svg "Island Explorer Stops")
 
 The map and stops image files are licensed under a [Creative Commons
 Attribution-ShareAlike 4.0 International
