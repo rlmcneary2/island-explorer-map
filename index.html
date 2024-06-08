@@ -29,19 +29,25 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
   <meta name="author" content="Richard L. McNeary II" />
   <meta name="copyright" content="Richard L. McNeary II" />
   <meta name="description"
-    content="A 'tube-style' map that displays information about the Island Explorer bus routes in Acadia National Park. Provide a list of bus stops with helpful information that includes the routes that access the stop, facilities (restrooms, drinking water, etc.), and points of interest (trailheads, geographic features, etc.)." />
-  <meta name="keywords"
-    content="rlmcneary2, Rich McNeary, Richard L. McNeary II, limnous, Acadia, Mount Desert, Island Explorer, map, bus route, Island Explorer Map" />
+    content="A 'tube-style' map that displays information about the Island Explorer bus routes in Acadia National Park. Includes a list of bus stops with helpful information about, routes that access the stop, facilities (restrooms, drinking water, etc.), and points of interest (trailheads, geographic features, etc.)." />
+  <meta name="keywords" content="rlmcneary2, Rich McNeary, Richard L. McNeary II, limnous, Acadia,
+  Mount Desert, Island Explorer, map, bus route, Island Explorer Map" />
   <link href="docs/16x16.png" rel="icon" sizes="16x16" type="image/png" />
   <link href="docs/192x192.png" rel="icon" sizes="192x192" type="image/png" />
   <link href="docs/32x32.png" rel="icon" sizes="32x32" type="image/png" />
+  <meta property="og:url" content="https://islandexplorermap.com/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Island Explorer route map" />
+  <meta property="og:description"
+    content="A 'tube-style' map that displays information about the Island Explorer bus routes in Acadia National Park. Includes a list of bus stops with helpful information about, routes that access the stop, facilities (restrooms, drinking water, etc.), and points of interest (trailheads, geographic features, etc.)." />
+  <meta property="og:image" content="2024/island-explorer-route-map.min.svg" />
   <style>
     p {
-      margin: auto 0 1em 0
+      margin: auto 0 1em 0;
     }
 
     li {
-      margin-bottom: 1em
+      margin-bottom: 1em;
     }
 
     .content {
@@ -49,11 +55,11 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
       flex-flow: row wrap;
       margin: 0 auto;
       max-width: 800px;
-      position: relative
+      position: relative;
     }
 
     .content h1 {
-      flex: 100%
+      flex: 100%;
     }
 
     .cta-text {
@@ -65,19 +71,19 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
       display: flex;
       justify-content: center;
       margin-top: 1em;
-      position: relative
+      position: relative;
     }
 
     .license img {
-      margin-right: 20px
+      margin-right: 20px;
     }
 
     .layout {
-      display: flex
+      display: flex;
     }
 
     .map-sections {
-      flex: 0 0 450px
+      flex: 0 0 450px;
     }
 
     .map-section {
@@ -85,52 +91,52 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
       display: flex;
       flex: 1;
       flex-direction: column;
-      margin-bottom: 20px
+      margin-bottom: 20px;
     }
 
     .display .map-section {
       margin-bottom: 0;
-      margin-top: 0
+      margin-top: 0;
     }
 
     .map-container {
       display: flex;
-      flex-direction: column
+      flex-direction: column;
     }
 
     .map,
     .stop {
       flex: 1;
-      width: 100%
+      width: 100%;
     }
 
     img.map,
     img.stop {
-      border: 1px solid black
+      border: 1px solid black;
     }
 
     .sidebar-section {
       flex: 1;
-      margin-right: 15px
+      margin-right: 15px;
     }
 
-    @media screen and (max-width:700px) {
+    @media screen and (max-width: 700px) {
       h1 {
-        text-align: center
+        text-align: center;
       }
 
       .layout {
-        flex-direction: column-reverse
+        flex-direction: column-reverse;
       }
 
       .map-sections {
-        flex: 100%
+        flex: 100%;
       }
 
       .sidebar-section {
         flex: 100%;
         margin-right: initial;
-        max-width: initial
+        max-width: initial;
       }
     }
   </style>
@@ -144,9 +150,10 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
     <div class="layout">
       <section class="sidebar-section">
         <p class="cta-text">
-          Where are the buses right now? Get the <a href="https://islandexplorer.app/" target="_blank">island explorer
-            web app</a> for information about buses, carriage roads,
-          landmarks, trails, and other park attractions. Nothing to install, runs in your browser!
+          Where are the buses right now? Get the
+          <a href="https://islandexplorer.app/" target="_blank">island explorer web app</a>
+          for information about buses, carriage roads, landmarks, trails, and
+          other park attractions. Nothing to install, runs in your browser!
         </p>
         <p>
           A "tube-style" map that displays information about the Island
