@@ -18,16 +18,16 @@ in mind:
 - Fits on a single sheet of letter paper printed on both sides.
 
 Single file [PDF with both routes and stops for
-2023](2023/island-explorer-route-map-2023.pdf) for printing or viewing offline.
+2024](2024/island-explorer-route-map-2024.pdf) for printing or viewing offline.
 
 The maps and a list of bus stops are stored under directories with names that
 correspond to the year they were created for.
 
 ![A "tube-style" map of Island Explorer bus routes in Acadia National
-Park.](2023/island-explorer-route-map.min.svg "Island Explorer Map")
+Park.](2024/island-explorer-route-map.min.svg "Island Explorer Map")
 
 ![A list of bus stops in Acadia National
-Park.](2023/island-explorer-route-stops.min.svg "Island Explorer Stops")
+Park.](2024/island-explorer-route-stops.min.svg "Island Explorer Stops")
 
 The map and stops image files are licensed under a [Creative Commons
 Attribution-ShareAlike 4.0 International

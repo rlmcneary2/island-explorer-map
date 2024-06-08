@@ -1,5 +1,5 @@
 <!--
-Copyright (c) 2018 Richard L. McNeary II
+Copyright (c) 2024 Richard L. McNeary II
 
 MIT License
 Permission is hereby granted, free of charge, to any person obtaining a copy of
@@ -32,9 +32,9 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
     content="A 'tube-style' map that displays information about the Island Explorer bus routes in Acadia National Park. Provide a list of bus stops with helpful information that includes the routes that access the stop, facilities (restrooms, drinking water, etc.), and points of interest (trailheads, geographic features, etc.)." />
   <meta name="keywords"
     content="rlmcneary2, Rich McNeary, Richard L. McNeary II, limnous, Acadia, Mount Desert, Island Explorer, map, bus route, Island Explorer Map" />
-  <link rel="icon" href="docs/16x16.png" />
-  <link rel="icon" href="docs/192x192.png" />
-  <link rel="icon" href="docs/32x32.png" />
+  <link href="docs/16x16.png" rel="icon" sizes="16x16" type="image/png" />
+  <link href="docs/192x192.png" rel="icon" sizes="192x192" type="image/png" />
+  <link href="docs/32x32.png" rel="icon" sizes="32x32" type="image/png" />
   <style>
     p {
       margin: auto 0 1em 0
@@ -54,6 +54,11 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
     .content h1 {
       flex: 100%
+    }
+
+    .cta-text {
+      font-weight: 700;
+      /* font-style: italic; */
     }
 
     .license {
@@ -139,6 +144,11 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
     <div class="layout">
       <section class="sidebar-section">
+        <p class="cta-text">
+          Where are the buses right now? Try the <a href="https://islandexplorer.app/" target="_blank">island explorer
+            app</a> for information about buses, carriage roads,
+          landmarks, trails, and other park attractions.
+        </p>
         <p>
           A "tube-style" map that displays information about the Island
           Explorer bus routes in Acadia National Park. The maps have been
@@ -178,7 +188,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
         <p>
           Both the map and list of stops are below. There is also a two page
-          <a href="2023/island-explorer-routes-2023.pdf" alt="Island Explorer routes">downloadable PDF</a>
+          <a href="2024/island-explorer-routes-2024.pdf" alt="Island Explorer routes">downloadable PDF</a>
           with the same information.
         </p>
       </section>
@@ -186,15 +196,19 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
       <div class="map-sections">
         <section class="map-section">
           <div class="map-container">
-            <a class="map"><img alt="A map of Island Explorer routes and the stops on each route." class="map" /></a>
+            <a class="map" href="docs/map.html">
+              <img alt="A map of Island Explorer routes and the stops on each route." class="map"
+                src="2024/island-explorer-route-map.min.svg" />
+            </a>
           </div>
         </section>
 
         <section class="map-section">
           <div class="map-container">
-            <a class="stop"><img
-                alt="A list of Island Explorer stops with information about the facilities available at each stop."
-                class="stop" /></a>
+            <a class="stop" href="docs/stops.html">
+              <img alt="A list of Island Explorer stops with information about the facilities available at each stop."
+                class="stop" src="2024/island-explorer-route-stops.min.svg" />
+            </a>
           </div>
         </section>
       </div>
@@ -209,31 +223,6 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
       </p>
     </section>
   </main>
-
-  <script>
-    var setElements = function (className, option) {
-      var elements = document.getElementsByClassName(className);
-      var prop;
-      for (var i = 0; i < elements.length; i++) {
-        console.log("localName: " + elements[i].localName);
-        prop = option[elements[i].localName];
-        if (prop) {
-          elements[i][prop] = option.value;
-        }
-      }
-    };
-
-    setElements("map", { a: "href", value: "docs/map.html" });
-    setElements("map", {
-      img: "src",
-      value: "2023/island-explorer-route-map.min.svg",
-    });
-    setElements("stop", { a: "href", value: "docs/stops.html" });
-    setElements("stop", {
-      img: "src",
-      value: "2023/island-explorer-route-stops.min.svg",
-    });
-  </script>
 </body>
 
 </html>
