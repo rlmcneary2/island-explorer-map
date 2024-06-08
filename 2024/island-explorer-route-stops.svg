@@ -105,7 +105,7 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Island Explorer route stops</dc:title>
-        <dc:date>May 13, 2023</dc:date>
+        <dc:date>June 7, 2024</dc:date>
         <dc:creator>
           <cc:Agent>
             <dc:title>Richard L. McNeary II</dc:title>
@@ -119,12 +119,12 @@
         </dc:subject>
         <dc:rights>
           <cc:Agent>
-            <dc:title>Copyright 2017, 2018, 2019, 2020, 2021, 2022, 2023</dc:title>
+            <dc:title>Copyright 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024</dc:title>
           </cc:Agent>
         </dc:rights>
+        <dc:description>8.5 x 11: Display units = &quot;in&quot;, Scale = &quot;625&quot;</dc:description>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
-        <dc:description>8.5 x 11: Display units = &quot;in&quot;, Scale = &quot;625&quot;</dc:description>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">

@@ -1116,7 +1116,7 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Island Explorer route map</dc:title>
-        <dc:date>January 1, 2023</dc:date>
+        <dc:date>June 7, 2024</dc:date>
         <dc:creator>
           <cc:Agent>
             <dc:title>Richard L. McNeary II</dc:title>
@@ -1130,13 +1130,13 @@
         </dc:subject>
         <dc:rights>
           <cc:Agent>
-            <dc:title>Copyright 2017, 2018, 2019, 2020, 2021, 2022, 2023</dc:title>
+            <dc:title>Copyright 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024</dc:title>
           </cc:Agent>
         </dc:rights>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:description>8.5 x 11: Display units = &quot;in&quot;, Scale = &quot;625&quot;
 </dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
@@ -3044,9 +3044,9 @@
            y="0"><tspan
              x="266.7222"
              y="828.15773"
-             id="tspan45"><tspan
+             id="tspan3"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan44">11</tspan></tspan></text>
+               id="tspan2">11</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3079,9 +3079,9 @@
            y="0"><tspan
              x="265.42887"
              y="828.15773"
-             id="tspan47"><tspan
+             id="tspan5"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan46">10</tspan></tspan></text>
+               id="tspan4">10</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3115,9 +3115,9 @@
            y="0"><tspan
              x="268.53218"
              y="828.15773"
-             id="tspan49"><tspan
+             id="tspan7"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan48">9</tspan></tspan></text>
+               id="tspan6">9</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3151,9 +3151,9 @@
            y="0"><tspan
              x="268.27218"
              y="828.15773"
-             id="tspan51"><tspan
+             id="tspan9"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan50">8</tspan></tspan></text>
+               id="tspan8">8</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3187,9 +3187,9 @@
            y="0"><tspan
              x="269.02552"
              y="828.15773"
-             id="tspan53"><tspan
+             id="tspan11"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan52">7</tspan></tspan></text>
+               id="tspan10">7</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3223,9 +3223,9 @@
            y="0"><tspan
              x="268.46551"
              y="828.15773"
-             id="tspan55"><tspan
+             id="tspan13"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan54">6</tspan></tspan></text>
+               id="tspan12">6</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3259,9 +3259,9 @@
            y="0"><tspan
              x="268.51218"
              y="828.15773"
-             id="tspan57"><tspan
+             id="tspan15"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan56">5</tspan></tspan></text>
+               id="tspan14">5</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3295,9 +3295,9 @@
            y="0"><tspan
              x="268.29885"
              y="828.15773"
-             id="tspan59"><tspan
+             id="tspan17"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan58">4</tspan></tspan></text>
+               id="tspan16">4</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3331,9 +3331,9 @@
            y="0"><tspan
              x="268.44552"
              y="828.15773"
-             id="tspan61"><tspan
+             id="tspan19"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan60">3</tspan></tspan></text>
+               id="tspan18">3</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3366,9 +3366,9 @@
            y="0"><tspan
              x="268.51886"
              y="828.15773"
-             id="tspan63"><tspan
+             id="tspan21"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan62">2</tspan></tspan></text>
+               id="tspan20">2</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3401,9 +3401,9 @@
            y="0"><tspan
              x="269.55885"
              y="828.15773"
-             id="tspan65"><tspan
+             id="tspan23"><tspan
                style="font-family:Rubik;-inkscape-font-specification:Rubik;fill:#ffffff"
-               id="tspan64">1</tspan></tspan></text>
+               id="tspan22">1</tspan></tspan></text>
       </g>
     </g>
     <rect
@@ -3448,15 +3448,15 @@
        y="0"><tspan
          x="334.97198"
          y="913.97173"
-         id="tspan67"><tspan
+         id="tspan25"><tspan
            style="font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans';text-align:center;text-anchor:middle"
-           id="tspan66">Seawall
+           id="tspan24">Seawall
 </tspan></tspan><tspan
          x="283.30202"
          y="964.15227"
-         id="tspan69"><tspan
+         id="tspan27"><tspan
            style="font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans';text-align:center;text-anchor:middle"
-           id="tspan68">Campground</tspan></tspan></text>
+           id="tspan26">Campground</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.10416667,0,0,0.10416667,-5051.0927,-2729.2778)"
@@ -3466,15 +3466,15 @@
        y="0"><tspan
          x="333.85194"
          y="914.51039"
-         id="tspan71"><tspan
+         id="tspan29"><tspan
            style="font-family:Mulish;-inkscape-font-specification:Mulish;text-align:center;text-anchor:middle"
-           id="tspan70">Seawall
+           id="tspan28">Seawall
 </tspan></tspan><tspan
          x="287.0083"
          y="965.04902"
-         id="tspan73"><tspan
+         id="tspan31"><tspan
            style="font-family:Mulish;-inkscape-font-specification:Mulish;text-align:center;text-anchor:middle"
-           id="tspan72">Campground</tspan></tspan></text>
+           id="tspan30">Campground</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.10416667,0,0,0.10416667,-5015.6,-2728.9118)"
@@ -3484,15 +3484,15 @@
        y="0"><tspan
          x="341.03193"
          y="914.67852"
-         id="tspan75"><tspan
+         id="tspan33"><tspan
            style="font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle"
-           id="tspan74">Seawall
+           id="tspan32">Seawall
 </tspan></tspan><tspan
          x="293.67204"
          y="965.3853"
-         id="tspan77"><tspan
+         id="tspan35"><tspan
            style="font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle"
-           id="tspan76">Campground</tspan></tspan></text>
+           id="tspan34">Campground</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.10416667,0,0,0.10416667,-4985.2786,-2729.4606)"
@@ -3502,15 +3502,15 @@
        y="0"><tspan
          x="335.29199"
          y="913.97173"
-         id="tspan79"><tspan
+         id="tspan37"><tspan
            style="font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans';text-align:center;text-anchor:middle"
-           id="tspan78">Seawall
+           id="tspan36">Seawall
 </tspan></tspan><tspan
          x="291.15194"
          y="965.81682"
-         id="tspan81"><tspan
+         id="tspan39"><tspan
            style="font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans';text-align:center;text-anchor:middle"
-           id="tspan80">Campground</tspan></tspan></text>
+           id="tspan38">Campground</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.10416667,0,0,0.10416667,-5014.0163,-2743.9921)"
@@ -3520,15 +3520,15 @@
        y="0"><tspan
          x="337.77246"
          y="913.97173"
-         id="tspan83"><tspan
+         id="tspan41"><tspan
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
-           id="tspan82">Seawall
+           id="tspan40">Seawall
 </tspan></tspan><tspan
          x="285.49707"
          y="964.07018"
-         id="tspan85"><tspan
+         id="tspan43"><tspan
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
-           id="tspan84">Campground</tspan></tspan></text>
+           id="tspan42">Campground</tspan></tspan></text>
     <g
        id="g16296"
        transform="translate(-2.0663072,-6.9677168)"
