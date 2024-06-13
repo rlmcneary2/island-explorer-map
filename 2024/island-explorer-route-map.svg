@@ -1260,18 +1260,23 @@
        xlink:href="#bar-harbor-path"
        id="bar-harbor-path_color"
        style="fill:none;fill-rule:evenodd;stroke:#ff4703;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#bar-harbor-path"
-       id="bar-harbor-path_bw-1"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#bar-harbor-path"
-       id="bar-harbor-path_bw-2"
-       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="bar-harbor-path_bw"
+       style="display:inline">
+
+      <use
+         x="0"
+         y="0"
+         xlink:href="#bar-harbor-path"
+         id="bar-harbor-path_bw-1"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#bar-harbor-path"
+         id="bar-harbor-path_bw-2"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+   </g>
     <path
        id="path4979-3-4-4-1-2-7"
        style="fill:none;fill-rule:evenodd;stroke:#ff4703;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
