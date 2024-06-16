@@ -1036,7 +1036,7 @@
      inkscape:cx="527.92332"
      inkscape:cy="408"
      inkscape:document-units="in"
-     inkscape:current-layer="layer19"
+     inkscape:current-layer="layer8"
      showgrid="false"
      units="px"
      inkscape:window-width="1536"
@@ -2022,15 +2022,35 @@
     <path
        style="color:#000000;display:inline;fill:#ffffff;fill-opacity:0.847059;fill-rule:evenodd;stroke-width:1.58113;-inkscape-stroke:none"
        d="m 57.4985,38.335 h -1.9998 v 3.333 h 1.9998 z"
-       id="path5512-5-6-5"
-       sodipodi:nodetypes="ccccc"
-       transform="translate(-5019.8157,-2745)" />
+       id="loop-path-bridge"
+       sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#f3b209;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4962.9838,-2729.3319 v 27.9997 c 0,0.9999 -0.6666,1.6665 -0.6666,1.9998 0,0.3333 0.6666,0.9999 0.6666,1.9998 v 0.8909 c 0,0.5276 0.2019,0.9775 0.5352,1.3108 l 6.961,6.961 c 0.3345,0.3345 0.7637,0.503 1.2015,0.503 0.5207,0 0.968,0.3333 1.3013,0.6666 0.3333,-0.3333 0.6666,-0.6666 1.3332,-0.6666 h 5.6661 c 0.9999,0 1.9998,0.9999 1.9998,1.9998 v 1.3332 6.666 c 0,0.6606 -0.1581,1.1579 -0.4766,1.4764 l -6.1874,6.1895 c -0.3353,0.3353 -0.6686,0.3333 -1.3352,0.3358 h -9.6657 c -0.6666,0 -1.3332,-0.6691 -1.3332,-1.3357 v -25.6641"
+       style="fill:none;stroke-width:0.67"
+       d="m -4962.9838,-2729.3319 v 27.9997 c 0,0.9999 -0.6666,1.6665 -0.6666,1.9998 0,0.3333 0.6666,0.9999 0.6666,1.9998 v 0.8909 c 0,0.5276 0.2019,0.9775 0.5352,1.3108 l 6.961,6.961 c 0.3345,0.3345 0.7637,0.503 1.2015,0.503 0.5207,0 0.968,0.3333 1.3013,0.6666 0.3333,-0.3333 0.6666,-0.6666 1.3332,-0.6666 h 5.6661 c 0.9999,0 1.9998,0.9999 1.9998,1.9998 v 1.3332 6.666 c 0,0.6606 -0.1581,1.1579 -0.4766,1.4764 l -6.1874,6.1895 c -0.3353,0.3353 -0.6686,0.3333 -1.3352,0.3358 h -9.6657 c -0.6666,0 -1.3332,-0.6691 -1.3332,-1.3357 l 0,-25.3308"
        id="loop-path"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#loop-path"
+       id="loop-path_color"
+       style="fill-rule:evenodd;stroke:#f3b209;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="loop-path_bw">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#loop-path"
+         id="loop-path_bw-1"
+         style="fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#loop-path"
+         id="loop-path_bw-2"
+         style="fill-rule:evenodd;stroke:#ffffff;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.2;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m -4948.6519,-2674.6682 c 0,0 0,1.3332 0,1.3332 0,0 1.3331,0 1.3331,0"
@@ -2169,7 +2189,7 @@
          id="sand-beach-path-connector_bw-2"
          style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.12;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1">
         <desc
-           id="desc1">B&amp;W</desc>
+           id="desc2">B&amp;W</desc>
       </use>
     </g>
     <path
@@ -2374,7 +2394,7 @@
        y="0"
        xlink:href="#jordan-pond-path"
        id="jordan-pond-path_bw-2"
-         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.335, 2.01;stroke-dashoffset:0;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.34;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g8">
