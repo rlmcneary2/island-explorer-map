@@ -1274,7 +1274,7 @@
          y="0"
          xlink:href="#bar-harbor-path"
          id="bar-harbor-path_bw-2"
-         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0 1;stroke-opacity:1" />
    </g>
     <path
        id="path4979-3-4-4-1-2-7"
@@ -2153,7 +2153,7 @@
        y="0"
        xlink:href="#sand-beach-path"
        id="sand-beach-path_bw-2"
-         style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.45;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <path
        style="color:#000000;display:inline;fill:#ffffff;fill-opacity:0.847059;fill-rule:evenodd;stroke-width:0.994759;-inkscape-stroke:none"
@@ -2187,7 +2187,7 @@
          y="0"
          xlink:href="#sand-beach-path-connector"
          id="sand-beach-path-connector_bw-2"
-         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.12;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1">
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.45;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1">
         <desc
            id="desc2">B&amp;W</desc>
       </use>
@@ -2304,13 +2304,13 @@
          y="0"
          xlink:href="#blackwoods-path"
          id="blackwoods-path_bw-1"
-         style="display:inline;fill-rule:evenodd;stroke:#808080;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="display:inline;fill-rule:evenodd;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <use
          x="0"
          y="0"
          xlink:href="#blackwoods-path"
          id="blackwoods-path_bw-2"
-         style="display:inline;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.43;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.215,1.50500003;stroke-dashoffset:0;stroke-opacity:1" />
+         style="display:inline;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0 1;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
@@ -2467,13 +2467,13 @@
          y="0"
          xlink:href="#eden-street"
          id="eden-street_bw-1"
-         style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.67;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke" />
+         style="opacity:1;fill:none;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:0.67;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke" />
       <use
          x="0"
          y="0"
          xlink:href="#eden-street"
          id="eden-street_bw-2"
-         style="opacity:1;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.33;stroke-linejoin:bevel;stroke-dasharray:0.99, 0.2;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+         style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.45;stroke-linejoin:bevel;stroke-dasharray:1 0.3;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
     </g>
     <path
        id="path1"
