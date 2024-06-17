@@ -1036,7 +1036,7 @@
      inkscape:cx="527.92332"
      inkscape:cy="408"
      inkscape:document-units="in"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer13"
      showgrid="false"
      units="px"
      inkscape:window-width="1536"
@@ -1381,7 +1381,7 @@
        id="bar-harbor-text"><textPath
          xlink:href="#bar-harbor-path"
          id="textPath1"
-         startOffset="30"
+         startOffset="54.2"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
          dy="0.19 0 0 0">Bar Harbor Road</textPath></text>
   </g>
@@ -1393,11 +1393,23 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#91745e;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none"
        d="m -5007.646,-2731.3292 7.3326,7.3326 5.6661,5.6661 c 0.3333,0.3333 0.3333,0.6666 0.3333,1.3332 v 9.6657 c 0,0.6666 0.6666,1.3332 1.3332,1.3332 h 46.3287 c 0.6666,0 1.9998,0.9999 2.3331,1.3332"
        id="trenton-path"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#trenton-path"
+       id="trenton-path_color"
+       style="fill-rule:evenodd;stroke:#91745e;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#trenton-path"
+       id="trenton-path_bw"
+       style="fill-rule:evenodd;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        id="path4979-3-4-4-1-2-7-4-0"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#91745e;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1517,6 +1529,15 @@
        d="m -5007.1747,-2731.8003 -0.9426,0.9422"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="trenton-text"><textPath
+         xlink:href="#trenton-path"
+         id="textPath8"
+         startOffset="66"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;image-rendering:auto"
+         dy="0.19 0 0 0">Trenton</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1526,10 +1547,22 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#d133ac;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4944.319,-2705.3328 h -31.7445 -6.2517 c -0.774,1e-4 -1.6828,0.3538 -1.9998,1.0009 -0.3398,-0.6536 -1.2453,-0.9999 -1.9998,-0.9999 h -6.666 c -0.8047,0 -1.3332,0.6666 -1.3332,1.3332 v 15.6651 c 0,1.0381 -0.9617,1.9998 -1.9998,1.9998 h -14.3319 c -0.6666,0 -1.3332,0.6666 -1.3332,1.3332 v 13.9986 c 0,0.6666 0.6666,1.3332 1.3332,1.3332 h 11.3322"
+       style="fill:none"
+       d="m -4999.3135,-2669.6687 h -11.3322 c -0.6666,0 -1.3332,-0.6666 -1.3332,-1.3332 v -13.9986 c 0,-0.6666 0.6666,-1.3332 1.3332,-1.3332 h 14.3319 c 1.0381,0 1.9998,-0.9617 1.9998,-1.9998 v -15.6651 c 0,-0.6666 0.5285,-1.3332 1.3332,-1.3332 h 6.666 c 0.7545,0 1.66,0.3463 1.9998,0.9999 0.317,-0.6471 1.2258,-1.0008 1.9998,-1.0009 h 6.2517 31.7445"
        id="southwest-path"
-       sodipodi:nodetypes="ccsccccccccccc" />
+       sodipodi:nodetypes="cccccccccccscc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#southwest-path"
+       id="southwest-path_color"
+       style="fill-rule:evenodd;stroke:#d133ac;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#southwest-path"
+       id="southwest-path_bw"
+       style="fill-rule:evenodd;stroke:#606060;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        id="path4979-3-4-4-7-6-2"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#d133ac;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1669,6 +1702,15 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        transform="translate(-1990,-2745)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="southwest-text"><textPath
+         xlink:href="#southwest-path"
+         id="textPath44"
+         startOffset="104"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
+         dy="0.19 0 0 0">Southwest Harbor</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1678,15 +1720,21 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <path
-       id="tremont-path_1"
-       style="fill:none;fill-rule:evenodd;stroke:#0387ce;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -3004.6473,55.3333 h 3.333 m -20.6646,-3.6663 v 4.9995 c 0,0.6666 0.6666,1.3332 1.3332,1.3332 h 14.3319 c 0.6666,0 1.3332,-0.6666 1.3332,-1.3332"
-       sodipodi:nodetypes="ccccssc" />
-    <path
-       id="tremont-path_2"
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#0387ce;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -3004.9806,55 v 6.666"
-       sodipodi:nodetypes="cc" />
+       id="tremont-path"
+       style="fill:none"
+       d="m -3004.9806,55 v 6.666 m 0.3333,-6.3327 h 3.333 m -20.6646,-3.6663 v 4.9995 c 0,0.6666 0.6666,1.3332 1.3332,1.3332 h 14.3319 c 0.6666,0 1.3332,-0.6666 1.3332,-1.3332" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#tremont-path"
+       id="tremont-path_color"
+       style="display:inline;fill-rule:evenodd;stroke:#0387ce;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#tremont-path"
+       id="tremont-path_bw"
+       style="display:inline;fill-rule:evenodd;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        id="path4979-3-4-4-7-6-2-4-6-1-1-6-3-3"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#0387ce;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1760,6 +1808,15 @@
        d="m -3005.6471,61.699 1.333,3e-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="tremont-text"><textPath
+         xlink:href="#tremont-path"
+         id="textPath45"
+         startOffset="23"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;image-rendering:auto"
+         dy="0.19 0 0 0">Tremont</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1769,11 +1826,28 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#0aaeed;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4944.319,-2704.6652 h -25.9974 c -0.6666,0 -1.6665,0.3333 -1.9998,0.9999 -0.3333,-0.6666 -1.3332,-0.9997 -1.9998,-0.9999 h -3.333 c -0.628,-2e-4 -1.3332,0.7032 -1.3332,1.3312 v 32.3331 c 0,0.6666 0.6666,1.3332 1.3332,1.3332 h 12.6654 c 0.6666,0 1.3332,-0.6666 1.3332,-1.3332 v -10.6656"
-       id="northeast-path_1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscsssccccc" />
+       id="northeast-path"
+       style="fill:none"
+       d="m -4978.9821,-2703.332 c -1e-4,-0.9999 -0.6667,-1.3332 -1.3333,-1.3332 m -3.6663,0.6666 c 0.3333,-0.3333 0.9999,-0.6666 1.6665,-0.6666 h 7.9992 c 0.7453,0 1.6665,0.3333 1.9998,0.9999 0.3333,-0.6666 1.3332,-0.9999 1.9998,-0.9999 h 25.9974 m -19.3314,22.9987 v 10.6656 c 0,0.6666 -0.6666,1.3332 -1.3332,1.3332 h -12.6654 c -0.6666,0 -1.3332,-0.6666 -1.3332,-1.3332 v -32.3311 c 0,-0.9999 0.7052,-1.3334 1.3332,-1.3332"
+       sodipodi:nodetypes="scsccssccccsscs" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#northeast-path"
+       id="northeast-path_color"
+       style="display:inline;stroke:#0aaeed;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#northeast-path"
+       id="northeast-path_bw-1"
+       style="display:inline;stroke:#404040;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#northeast-path"
+       id="northeast-path_bw-2"
+       style="display:none;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:3.35, 0.067;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        id="path4979-3-4-4-7-56"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#0aaeed;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1835,16 +1909,15 @@
          sodipodi:role="line"
          style="font-size:0.972222px;text-align:start;text-anchor:start"
          id="tspan108138-0">Seal Harbor</tspan></text>
-    <path
-       style="fill:none;stroke:#0aaeed;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4983.9817,-2703.9986 c 0.3333,-0.3333 0.9999,-0.6666 1.6665,-0.6666 h 1.9998 c 0.6666,0 1.3332,0.6666 1.3332,1.3332 v 0.3333"
-       id="northeast-path_2"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="display:inline;fill:none;stroke:#0aaeed;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4980.482,-2704.6669 h 2.9997"
-       id="path2569-6"
-       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="northeast-text"><textPath
+         xlink:href="#northeast-path"
+         id="textPath7"
+         startOffset="26.4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
+         dy="0.19 0 0 0">Northeast Harbor</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1860,11 +1933,22 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#753bdc;stroke-width:0.670002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2936.9877,-1537.9962 v 14.9985 c 0,0.6666 0.6666,1.3332 1.3332,1.3332 h 7.3326 c 0.6666,0 1.3332,-0.6666 1.3332,-1.3332 v -16.9983"
-       id="schoodic-path_1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
+       id="schoodic-path"
+       style="fill:none"
+       transform="translate(2.9166667e-5)"
+       d="m -2936.9874,-1531.3302 c 0,0.6666 0.6666,1.3332 1.3332,1.3332 h 7.3323 c 0.6666,0 1.3332,-0.6666 1.3332,-1.3332 m -9.999,-6.666 v 14.9985 c 0,0.6666 0.6666,1.3332 1.3332,1.3332 h 7.3326 c 0.6666,0 1.3332,-0.6666 1.3332,-1.3332 v -16.9983" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#schoodic-path"
+       id="schoodic-path_color"
+       style="display:inline;fill-rule:evenodd;stroke:#753bdc;stroke-width:0.670002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#schoodic-path"
+       id="schoodic-path_bw"
+       style="display:inline;fill-rule:evenodd;stroke:#000000;stroke-width:0.670002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m -2937.6945,-1528.3709 c 0,0 0.7071,0.707 0.7071,0.707 0,0 0.707,-0.707 0.707,-0.707"
@@ -1879,12 +1963,6 @@
        sodipodi:nodetypes="ccc"
        inkscape:original-d="m -2937.6945,-1524.7046 0.7071,0.707 0.707,-0.707"
        inkscape:path-effect="#path-effect863-3-6-3-9-1-0-8-9-61-3" />
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#753bdc;stroke-width:0.670002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2936.9874,-1531.3302 c 0,0.6666 0.6666,1.3332 1.3332,1.3332 h 7.3323 c 0.6666,0 1.3332,-0.6666 1.3332,-1.3332"
-       id="schoodic-path_2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
     <path
        id="path4979-3-4-4-4"
        style="fill:none;fill-rule:evenodd;stroke:#753bdc;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2020,6 +2098,15 @@
        sodipodi:nodetypes="ccc"
        inkscape:original-d="m -2930.0285,-1520.9574 0.707,-0.7071 -0.707,-0.707"
        inkscape:path-effect="#path-effect863-3-6-3-9-1-0-8-9-61-3-3-4-2-3" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.16667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="schoodic-text_bw"><textPath
+         xlink:href="#schoodic-path"
+         id="textPath9"
+         startOffset="15"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
+         dy="0.19 0 0 0">Schoodic</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2133,7 +2220,7 @@
        id="loop-text"><textPath
          xlink:href="#loop-path"
          id="textPath3"
-         startOffset="10"
+         startOffset="13"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
          dy="0.19 0 0 0">Loop Road</textPath></text>
   </g>
@@ -2411,7 +2498,7 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none"
-       d="m -4963.6504,-2682.3341 v -14.9985 c 0,-0.9999 -0.6666,-1.6665 -0.6666,-1.9998 0,-0.3333 0.6666,-0.9999 0.6666,-1.9998 v -27.6639"
+       d="m -4963.6504,-2728.9961 v 27.6639 c 0,0.9999 -0.6666,1.6665 -0.6666,1.9998 0,0.3333 0.6666,0.9999 0.6666,1.9998 v 14.9985"
        id="jordan-pond-path"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -2428,13 +2515,13 @@
        y="0"
        xlink:href="#jordan-pond-path"
        id="jordan-pond-path_bw-1"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <use
        x="0"
        y="0"
        xlink:href="#jordan-pond-path"
        id="jordan-pond-path_bw-2"
-         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.335, 2.01;stroke-dashoffset:0;stroke-opacity:1" />
+         style="display:none;fill:none;fill-rule:evenodd;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.335, 2.01;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g8">
@@ -2461,6 +2548,15 @@
            style="font-size:0.972222px;text-align:start;text-anchor:start"
            id="tspan90740">Pond</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="jordan-pond-text"><textPath
+         xlink:href="#jordan-pond-path"
+         id="textPath6"
+         startOffset="17"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;image-rendering:auto"
+         dy="0.19 0 0 0">Jordan Pond</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2704,7 +2800,7 @@
        id="eden-street-text"><textPath
          xlink:href="#eden-street"
          id="textPath2"
-         startOffset="28"
+         startOffset="31.3"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;image-rendering:auto"
          dy="0.19 0 0 0">Eden Street</textPath></text>
   </g>
