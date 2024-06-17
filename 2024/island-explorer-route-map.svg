@@ -2030,12 +2030,12 @@
      sodipodi:insensitive="true">
     <path
        style="color:#000000;display:inline;fill:#ffffff;fill-opacity:0.847059;fill-rule:evenodd;stroke-width:1.58113;-inkscape-stroke:none"
-       d="m 57.4985,38.335 h -1.9998 v 3.333 h 1.9998 z"
+       d="m -4962.3172,-2706.665 h -1.9998 v 3.333 h 1.9998 z"
        id="loop-path-bridge"
        sodipodi:nodetypes="ccccc" />
     <path
        style="fill:none;stroke-width:0.67"
-       d="m -4962.9838,-2729.3319 v 27.9997 c 0,0.9999 -0.6666,1.6665 -0.6666,1.9998 0,0.3333 0.6666,0.9999 0.6666,1.9998 v 0.8909 c 0,0.5276 0.2019,0.9775 0.5352,1.3108 l 6.961,6.961 c 0.3345,0.3345 0.7637,0.503 1.2015,0.503 0.5207,0 0.968,0.3333 1.3013,0.6666 0.3333,-0.3333 0.6666,-0.6666 1.3332,-0.6666 h 5.6661 c 0.9999,0 1.9998,0.9999 1.9998,1.9998 v 1.3332 6.666 c 0,0.6606 -0.1581,1.1579 -0.4766,1.4764 l -6.1874,6.1895 c -0.3353,0.3353 -0.6686,0.3333 -1.3352,0.3358 h -9.6657 c -0.6666,0 -1.3332,-0.6691 -1.3332,-1.3357 l 0,-25.3308"
+       d="m -4962.9838,-2729.3319 v 27.9997 c 0,0.9999 -0.6666,1.6665 -0.6666,1.9998 0,0.3333 0.6666,0.9999 0.6666,1.9998 v 0.8909 c 0,0.5276 0.2019,0.9775 0.5352,1.3108 l 6.961,6.961 c 0.3345,0.3345 0.7637,0.503 1.2015,0.503 0.5207,0 0.968,0.3333 1.3013,0.6666 0.3333,-0.3333 0.6666,-0.6666 1.3332,-0.6666 h 5.6661 c 0.9999,0 1.9998,0.9999 1.9998,1.9998 v 1.3332 6.666 c 0,0.6606 -0.1581,1.1579 -0.4766,1.4764 l -6.1874,6.1895 c -0.3353,0.3353 -0.6686,0.3333 -1.3352,0.3358 h -9.6657 c -0.6666,0 -1.3332,-0.6691 -1.3332,-1.3357 v -25.3308"
        id="loop-path"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccc" />
@@ -2052,13 +2052,13 @@
          y="0"
          xlink:href="#loop-path"
          id="loop-path_bw-1"
-         style="fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill-rule:evenodd;stroke:#606060;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <use
          x="0"
          y="0"
          xlink:href="#loop-path"
          id="loop-path_bw-2"
-         style="fill-rule:evenodd;stroke:#ffffff;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.2;stroke-dashoffset:0;stroke-opacity:1" />
+         style="display:none;fill-rule:evenodd;stroke:#ffffff;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.2;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
@@ -2127,6 +2127,15 @@
            style="font-size:0.972222px;text-align:start;text-anchor:start"
            id="tspan95261">Stables</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.16667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="loop-text"><textPath
+         xlink:href="#loop-path"
+         id="textPath3"
+         startOffset="10"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
+         dy="0.19 0 0 0">Loop Road</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2156,13 +2165,13 @@
        y="0"
        xlink:href="#sand-beach-path"
        id="sand-beach-path_bw-1"
-         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <use
        x="0"
        y="0"
        xlink:href="#sand-beach-path"
        id="sand-beach-path_bw-2"
-         style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.45;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="display:none;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.45;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <path
        style="color:#000000;display:inline;fill:#ffffff;fill-opacity:0.847059;fill-rule:evenodd;stroke-width:0.994759;-inkscape-stroke:none"
@@ -2188,7 +2197,7 @@
          y="0"
          xlink:href="#sand-beach-path-connector"
          id="sand-beach-path-connector_bw-1"
-         style="display:inline;fill:none;stroke:#000000;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" />
+         style="display:inline;fill:none;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" />
         <desc
            id="desc1">B&amp;W</desc>
       <use
@@ -2196,7 +2205,7 @@
          y="0"
          xlink:href="#sand-beach-path-connector"
          id="sand-beach-path-connector_bw-2"
-         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.45;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1">
+         style="display:none;fill:none;stroke:#ffffff;stroke-width:0.45;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1">
         <desc
            id="desc2">B&amp;W</desc>
       </use>
@@ -2244,21 +2253,19 @@
     <path
        id="path4979-3-4-4-0-5-8"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#276d4b;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 73.660435,71.62299 72.482041,70.444596"
+       d="M 73.904444,71.671811 72.72605,70.493417"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <g
-       id="g7">
       <path
          id="path4979-3-4-4-0-5"
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#276d4b;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 74.985578,66.98643 h 1.6665"
+       d="m 75.163399,66.9988 h 1.6665"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <text
          id="text1651-9-4-8-5-1-1-9-39-9-9"
-         y="67.270058"
-         x="77.173775"
+       y="67.282425"
+       x="77.351593"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.972222px;line-height:105.4%;font-family:Lato;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="67.270058"
@@ -2266,7 +2273,6 @@
            sodipodi:role="line"
            style="font-size:0.972222px;text-align:start;text-anchor:start"
            id="tspan56045-6-1-1">Otter Cliffs</tspan></text>
-    </g>
     <text
        id="text1651-9-4-8-5-1-1-9-39-9-9-6"
        y="72.789673"
@@ -2286,6 +2292,15 @@
        inkscape:original-d="m -4948.6519,-2674.6682 v 1.3332 h 1.3331"
        inkscape:path-effect="#path-effect863-3-0-5-5"
        transform="translate(5022.7157,2742.9618)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="sand-beach-text"><textPath
+         xlink:href="#sand-beach-path"
+         id="textPath5"
+         startOffset="87"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;image-rendering:auto"
+         dy="0.19 0 0 0">Sand Beach</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2296,7 +2311,7 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none"
-       d="m -2962.9848,57.9997 v -0.9999 c 0,-0.614111 0.5596,-0.840438 1.5261,-1.806906 l 6.4751,-6.475101 c 0.3313,-0.331304 0.3313,-0.673379 0.3313,-1.329612 v -6.860485 c 0,0.807006 -1.6665,1.806906 -2.6664,1.806906 l -11.9988,-2e-6 h -1.6428 c -0.3301,0 -0.6903,0.360221 -0.6903,0.703764 v 5.401885 c 0,0.332031 0,0.336518 0.2048,0.536793 l 6.7874,6.787419 c 0.2357,0.235681 0.2353,0.235439 0.5725,0.235439 h 0.1012 c 0.6666,0 0.9999,0.3333 0.9999,0.9999 v 1.3332 h 0.3333 c 0.3333,0 0.9999,0.3333 0.9999,1.3332 v 7.6659 c 0,0.6666 0,0.9999 -0.3333,1.3332 l -2.6664,2.6664"
+       d="m -2964.6513,71.3317 2.6664,-2.6664 c 0.3333,-0.3333 0.3333,-0.6666 0.3333,-1.3332 v -7.6659 c 0,-0.9999 -0.6666,-1.3332 -0.9999,-1.3332 h -0.3333 v -1.3332 c 0,-0.6666 -0.3333,-0.9999 -0.9999,-0.9999 h -0.1012 c -0.3372,0 -0.3368,2.42e-4 -0.5725,-0.235439 l -6.7874,-6.787419 c -0.2048,-0.200275 -0.2048,-0.204762 -0.2048,-0.536793 v -5.401885 c 0,-0.343543 0.3602,-0.703764 0.6903,-0.703764 h 1.6428 l 11.9988,2e-6 c 0.9999,0 2.6664,-0.9999 2.6664,-1.806906 v 6.860485 c 0,0.656233 0,0.998308 -0.3313,1.329612 l -6.4751,6.475101 c -0.9665,0.966468 -1.5261,1.192795 -1.5261,1.806906 v 0.9999"
        id="blackwoods-path"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccc" />
@@ -2313,13 +2328,13 @@
          y="0"
          xlink:href="#blackwoods-path"
          id="blackwoods-path_bw-1"
-         style="display:inline;fill-rule:evenodd;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="display:inline;fill-rule:evenodd;stroke:#000000;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <use
          x="0"
          y="0"
          xlink:href="#blackwoods-path"
          id="blackwoods-path_bw-2"
-         style="display:inline;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0 1;stroke-dashoffset:0;stroke-opacity:1" />
+         style="display:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0, 1;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
@@ -2377,6 +2392,15 @@
        transform="rotate(135,-1448.7633,-571.23832)"
        inkscape:original-d="M 68.578272,62.746772 67.1642,61.3327 65.750128,62.746772"
        inkscape:path-effect="#path-effect863-3-6-3" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="blackwoods-text"><textPath
+         xlink:href="#blackwoods-path"
+         id="textPath4"
+         startOffset="37"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
+         dy="0.19 0 0 0">Blackwoods</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
