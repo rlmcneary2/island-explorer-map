@@ -1036,7 +1036,7 @@
      inkscape:cx="527.92332"
      inkscape:cy="408"
      inkscape:document-units="in"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer5"
      showgrid="false"
      units="px"
      inkscape:window-width="1536"
@@ -1250,7 +1250,7 @@
      sodipodi:insensitive="true">
     <path
        style="display:inline;fill:none"
-       d="m -4943.9857,-2704.3319 v -23.331 c 0,-0.9999 -0.8735,-1.9769 -1.9998,-1.9998 h -25.3308 c -0.6666,0 -0.9999,0 -1.3332,0.3333 l -9.9148,9.9148"
+       d="m -4982.5643,-2719.4146 9.9148,-9.9148 c 0.3333,-0.3333 0.6666,-0.3333 1.3332,-0.3333 h 25.3308 c 1.1263,0.023 1.9998,0.9999 1.9998,1.9998 v 23.331"
        id="bar-harbor-path"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
@@ -1274,7 +1274,7 @@
          y="0"
          xlink:href="#bar-harbor-path"
          id="bar-harbor-path_bw-2"
-         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0 1;stroke-opacity:1" />
+         style="display:none;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
    </g>
     <path
        id="path4979-3-4-4-1-2-7"
@@ -1375,6 +1375,15 @@
        d="m -4982.0932,-2718.9433 -0.9423,-0.9426"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="bar-harbor-text"><textPath
+         xlink:href="#bar-harbor-path"
+         id="textPath1"
+         startOffset="30"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
+         dy="0.19 0 0 0">Bar Harbor Road</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2451,8 +2460,8 @@
     <path
        id="eden-street"
        style="fill:none"
-       d="m -2955.3189,39.6682 4e-4,-22.3311 m -4e-4,20.9979 c 0,-0.6666 -0.6666,-1.3332 -1.3332,-1.3332 h -0.3333 c -0.7034,0 -1.3332,-0.6666 -1.3332,-1.3337 v -5.3323 c 0,-0.6656 0.6666,-1.3322 1.3332,-1.3322 h 0.3333 c 0.6666,0 1.3328,-0.666478 1.3328,-1.333078"
-       sodipodi:nodetypes="ccccsssccc" />
+       d="m -2955.3193,27.670522 c 0,0.6666 -0.6662,1.333078 -1.3328,1.333078 h -0.3333 c -0.6666,0 -1.3332,0.6666 -1.3332,1.3322 v 5.3323 c 0,0.6671 0.6298,1.3337 1.3332,1.3337 h 0.3333 c 0.6666,0 1.3332,0.6666 1.3332,1.3332 m 4e-4,-20.9979 -4e-4,22.3311"
+       sodipodi:nodetypes="cccssscccc" />
     <use
        x="0"
        y="0"
@@ -2473,7 +2482,7 @@
          y="0"
          xlink:href="#eden-street"
          id="eden-street_bw-2"
-         style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.45;stroke-linejoin:bevel;stroke-dasharray:1 0.3;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+         style="display:none;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.45;stroke-linejoin:bevel;stroke-dasharray:1, 0.3;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
     </g>
     <path
        id="path1"
@@ -2665,6 +2674,15 @@
          sodipodi:role="line"
          style="font-size:0.972222px;text-align:end;text-anchor:end"
          id="tspan24179-2">Wonder View Inn</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="eden-street-text"><textPath
+         xlink:href="#eden-street"
+         id="textPath2"
+         startOffset="28"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;image-rendering:auto"
+         dy="0.19 0 0 0">Eden Street</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
