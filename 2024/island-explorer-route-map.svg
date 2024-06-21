@@ -1036,7 +1036,7 @@
      inkscape:cx="527.92332"
      inkscape:cy="408"
      inkscape:document-units="in"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer7"
      showgrid="false"
      units="px"
      inkscape:window-width="1536"
@@ -2566,18 +2566,6 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <path
-       id="path4979-3-4"
-       style="fill:none;fill-rule:evenodd;stroke:#539fb2;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2959.3181,34.500348 0.9999,5e-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       id="path4979-3-4-5"
-       style="fill:none;fill-rule:evenodd;stroke:#539fb2;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2959.3181,31.353752 0.9999,5e-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
        id="eden-street"
        style="fill:none"
        d="m -2955.3193,27.670522 c 0,0.6666 -0.6662,1.333078 -1.3328,1.333078 h -0.3333 c -0.6666,0 -1.3332,0.6666 -1.3332,1.3322 v 5.3323 c 0,0.6671 0.6298,1.3337 1.3332,1.3337 h 0.3333 c 0.6666,0 1.3332,0.6666 1.3332,1.3332 m 4e-4,-20.9979 -4e-4,22.3311"
@@ -2588,34 +2576,20 @@
        xlink:href="#eden-street"
        id="eden-street_color"
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#539fb2;stroke-width:0.67;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke" />
-    <g
-       id="eden-street_bw"
-       style="display:inline">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#eden-street"
-         id="eden-street_bw-1"
-         style="opacity:1;fill:none;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:0.67;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#eden-street"
-         id="eden-street_bw-2"
-         style="display:none;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.45;stroke-linejoin:bevel;stroke-dasharray:1, 0.3;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
-    </g>
     <path
-       id="path1"
+       id="path4979-3-4"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#539fb2;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -2959.3181,34.500348 0.9999,5e-4"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       transform="translate(-8.333333e-6)" />
     <path
-       id="path2"
+       id="path4979-3-4-5"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#539fb2;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -2959.3181,31.353752 0.9999,5e-4"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       transform="translate(-8.333333e-6)" />
     <text
        id="text1651-9-4-8-5-1-7-7"
        y="26.026539"
@@ -2708,11 +2682,6 @@
          style="font-size:0.972222px;text-align:start;text-anchor:start"
          id="tspan32378">Terminal</tspan></text>
     <path
-       id="path861-1-2-78-8-8"
-       style="color:#000000;display:inline;fill:#ffffff;-inkscape-stroke:none"
-       d="m -2955.3203,32.8396 -0.3334,0.3335 v 0.494 l 0.3334,-0.3335 0.3333,0.3333 v -0.494 z"
-       sodipodi:nodetypes="ccccccc" />
-    <path
        id="path4979-3-4-4-7-4"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#539fb2;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -2956.3188,23.336 0.9999,5e-4"
@@ -2748,30 +2717,6 @@
        d="m -2956.3188,25.6691 0.9999,5e-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2957.5948,42.944 c 0,0 0.9427,-0.9427 0.9427,-0.9427 0,0 -0.9427,-0.942644 -0.9427,-0.942644"
-       id="path861-1-2-78-8-8-8"
-       sodipodi:nodetypes="ccc"
-       inkscape:original-d="m -2957.5948,42.944 0.9427,-0.9427 -0.9427,-0.942644"
-       inkscape:path-effect="#path-effect863-3-6-3-9-1-0"
-       transform="translate(1.0066979e-6,-4.9994986)" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2959.2613,36.124191 c 0,0 0.9427,0.942714 0.9427,0.942714 0,0 0.9426,-0.942742 0.9426,-0.942742"
-       id="path861-1-2-78-8-8-8-4"
-       sodipodi:nodetypes="ccc"
-       inkscape:original-d="m -2959.2613,36.124191 0.9427,0.942714 0.9426,-0.942742"
-       inkscape:path-effect="#path-effect863-3-6-3-9-1-0-8"
-       transform="translate(1.0066979e-6,-3.9578319)" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2956.0427,33.059393 c 0,0 -0.9427,0.942707 -0.9427,0.942707 0,0 0.9428,0.942643 0.9428,0.942643"
-       id="path861-1-2-78-8-8-8-4-9"
-       sodipodi:nodetypes="ccc"
-       inkscape:original-d="m -2956.0427,33.059393 -0.9427,0.942707 0.9428,0.942643"
-       inkscape:path-effect="#path-effect863-3-6-3-9-1-0-8-6"
-       transform="translate(1.0066979e-6,-4.9994986)" />
     <text
        id="text1651-9-4-8-5-1-7"
        y="31.633757"
@@ -2794,15 +2739,68 @@
          sodipodi:role="line"
          style="font-size:0.972222px;text-align:end;text-anchor:end"
          id="tspan24179-2">Wonder View Inn</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="black &amp; white"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <use
+       x="0"
+       y="0"
+       xlink:href="#eden-street"
+       id="eden-street_bw"
+       style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:0.67;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
+       transform="translate(3030.4823)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
-       id="eden-street-text"><textPath
+       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="eden-street-text"
+       transform="translate(3030.4823)"><textPath
          xlink:href="#eden-street"
          id="textPath2"
-         startOffset="31.3"
+         startOffset="31.299999"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;image-rendering:auto"
          dy="0.19 0 0 0">Eden Street</textPath></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="arrows"
+     sodipodi:insensitive="true">
+    <g
+       id="eden-street-arrows">
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m -2957.5948,42.944 c 0,0 0.9427,-0.9427 0.9427,-0.9427 0,0 -0.9427,-0.942644 -0.9427,-0.942644"
+         id="path861-1-2-78-8-8-8"
+         sodipodi:nodetypes="ccc"
+         inkscape:original-d="m -2957.5948,42.944 0.9427,-0.9427 -0.9427,-0.942644"
+         inkscape:path-effect="#path-effect863-3-6-3-9-1-0"
+         transform="translate(3030.4823,-4.9994986)" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m -2959.2613,36.124191 c 0,0 0.9427,0.942714 0.9427,0.942714 0,0 0.9426,-0.942742 0.9426,-0.942742"
+         id="path861-1-2-78-8-8-8-4"
+         sodipodi:nodetypes="ccc"
+         inkscape:original-d="m -2959.2613,36.124191 0.9427,0.942714 0.9426,-0.942742"
+         inkscape:path-effect="#path-effect863-3-6-3-9-1-0-8"
+         transform="translate(3030.4823,-3.9578319)" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m -2956.0427,33.059393 c 0,0 -0.9427,0.942707 -0.9427,0.942707 0,0 0.9428,0.942643 0.9428,0.942643"
+         id="path861-1-2-78-8-8-8-4-9"
+         sodipodi:nodetypes="ccc"
+         inkscape:original-d="m -2956.0427,33.059393 -0.9427,0.942707 0.9428,0.942643"
+         inkscape:path-effect="#path-effect863-3-6-3-9-1-0-8-6"
+         transform="translate(3030.4823,-4.9994986)" />
+      <path
+         id="path861-1-2-78-8-8"
+         style="color:#000000;display:inline;fill:#ffffff;-inkscape-stroke:none"
+         d="m 75.162,32.8396 -0.3334,0.3335 v 0.494 l 0.3334,-0.3335 0.3333,0.3333 v -0.494 z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
