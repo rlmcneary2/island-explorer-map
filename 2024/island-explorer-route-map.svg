@@ -572,22 +572,6 @@
        xlink:href="#bar-harbor-path"
        id="bar-harbor-path_color"
        style="fill:none;fill-rule:evenodd;stroke:#ff4703;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <g
-       id="bar-harbor-path_bw"
-       style="display:inline">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#bar-harbor-path"
-         id="bar-harbor-path_bw-1"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#bar-harbor-path"
-         id="bar-harbor-path_bw-2"
-         style="display:none;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-   </g>
     <path
        id="path4979-3-4-4-1-2-7"
        style="fill:none;fill-rule:evenodd;stroke:#ff4703;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -687,15 +671,6 @@
        d="m -4982.0932,-2718.9433 -0.9423,-0.9426"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
-       id="bar-harbor-text"><textPath
-         xlink:href="#bar-harbor-path"
-         id="textPath1"
-         startOffset="54.2"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
-         dy="0.19 0 0 0">Bar Harbor Road</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -716,12 +691,6 @@
        xlink:href="#trenton-path"
        id="trenton-path_color"
        style="fill-rule:evenodd;stroke:#91745e;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#trenton-path"
-       id="trenton-path_bw"
-       style="fill-rule:evenodd;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        id="path4979-3-4-4-1-2-7-4-0"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#91745e;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -841,15 +810,6 @@
        d="m -5007.1747,-2731.8003 -0.9426,0.9422"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
-       id="trenton-text"><textPath
-         xlink:href="#trenton-path"
-         id="textPath8"
-         startOffset="66"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;image-rendering:auto"
-         dy="0.19 0 0 0">Trenton</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -869,12 +829,6 @@
        xlink:href="#southwest-path"
        id="southwest-path_color"
        style="fill-rule:evenodd;stroke:#d133ac;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#southwest-path"
-       id="southwest-path_bw"
-       style="fill-rule:evenodd;stroke:#606060;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        id="path4979-3-4-4-7-6-2"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#d133ac;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1014,15 +968,6 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
        transform="translate(-1990,-2745)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
-       id="southwest-text"><textPath
-         xlink:href="#southwest-path"
-         id="textPath44"
-         startOffset="104"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
-         dy="0.19 0 0 0">Southwest Harbor</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1041,12 +986,6 @@
        xlink:href="#tremont-path"
        id="tremont-path_color"
        style="display:inline;fill-rule:evenodd;stroke:#0387ce;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#tremont-path"
-       id="tremont-path_bw"
-       style="display:inline;fill-rule:evenodd;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        id="path4979-3-4-4-7-6-2-4-6-1-1-6-3-3"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#0387ce;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1120,15 +1059,6 @@
        d="m -3005.6471,61.699 1.333,3e-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
-       id="tremont-text"><textPath
-         xlink:href="#tremont-path"
-         id="textPath45"
-         startOffset="23"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;image-rendering:auto"
-         dy="0.19 0 0 0">Tremont</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1148,18 +1078,6 @@
        xlink:href="#northeast-path"
        id="northeast-path_color"
        style="display:inline;stroke:#0aaeed;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#northeast-path"
-       id="northeast-path_bw-1"
-       style="display:inline;stroke:#404040;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#northeast-path"
-       id="northeast-path_bw-2"
-       style="display:none;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:3.35, 0.067;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        id="path4979-3-4-4-7-56"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#0aaeed;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1221,15 +1139,6 @@
          sodipodi:role="line"
          style="font-size:0.972222px;text-align:start;text-anchor:start"
          id="tspan108138-0">Seal Harbor</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.104167"
-       id="northeast-text"><textPath
-         xlink:href="#northeast-path"
-         id="textPath7"
-         startOffset="26.4"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
-         dy="0.19 0 0 0">Northeast Harbor</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1255,22 +1164,6 @@
        xlink:href="#schoodic-path"
        id="schoodic-path_color"
        style="display:inline;fill-rule:evenodd;stroke:#753bdc;stroke-width:0.670002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#schoodic-path"
-       id="schoodic-path_bw"
-       style="display:inline;fill-rule:evenodd;stroke:#000000;stroke-width:0.670002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2937.6945,-1528.3709 0.7071,0.707 0.707,-0.707"
-       id="path861-1-2-78-8-8-8-4-0-3"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2937.6945,-1524.7046 0.7071,0.707 0.707,-0.707"
-       id="path861-1-2-78-8-8-8-4-0-3-0"
-       sodipodi:nodetypes="ccc" />
     <path
        id="path4979-3-4-4-4"
        style="fill:none;fill-rule:evenodd;stroke:#753bdc;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1378,35 +1271,6 @@
        d="m -2927.6552,-1540.0293 1.333,3e-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2931.6142,-1530.7041 -0.707,0.7071 0.707,0.707"
-       id="path861-1-2-78-8-8-8-4-0-3-0-9"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2926.2813,-1525.6237 -0.7071,-0.707 -0.707,0.707"
-       id="path861-1-2-78-8-8-8-4-0-3-0-9-9"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2934.6947,-1520.9574 0.707,-0.7071 -0.707,-0.707"
-       id="path861-1-2-78-8-8-8-4-0-3-0-9-9-9"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2930.0285,-1520.9574 0.707,-0.7071 -0.707,-0.707"
-       id="path861-1-2-78-8-8-8-4-0-3-0-9-9-9-5"
-       sodipodi:nodetypes="ccc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.16667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
-       id="schoodic-text_bw"><textPath
-         xlink:href="#schoodic-path"
-         id="textPath9"
-         startOffset="15"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
-         dy="0.19 0 0 0">Schoodic</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1433,55 +1297,6 @@
        id="loop-path_color"
        style="fill-rule:evenodd;stroke:#f3b209;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       id="loop-path_bw">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#loop-path"
-         id="loop-path_bw-1"
-         style="fill-rule:evenodd;stroke:#606060;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#loop-path"
-         id="loop-path_bw-2"
-         style="display:none;fill-rule:evenodd;stroke:#ffffff;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.2;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4948.6519,-2674.6682 v 1.3332 h 1.3331"
-       id="path861-1-3-6"
-       sodipodi:nodetypes="ccc"
-       transform="translate(-0.52258113,1.8577811)" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4959.708,-2671.9446 -0.9427,0.9427 0.9427,0.9427"
-       id="path861-1-3-6-4-9"
-       sodipodi:nodetypes="ccc"
-       transform="translate(3.7499993,1.3331997)" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4962.0411,-2682.3913 -0.9427,-0.9427 -0.9427,0.9427"
-       id="path861-1-3-6-4-9-5-7"
-       sodipodi:nodetypes="ccc"
-       transform="translate(1.0067015e-6,-1.8528666)" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4962.0411,-2687.7241 -0.9427,-0.9427 -0.9427,0.9427"
-       id="path861-1-3-6-4-9-5-78"
-       sodipodi:nodetypes="ccc"
-       transform="translate(1.0067015e-6,-3.1414717)" />
-    <path
-       style="color:#000000;fill:#ffffff;-inkscape-stroke:none"
-       d="m -4962.9844,-2679.5388 -0.3327,0.3327 v 0.4961 l 0.3327,-0.3327 0.8203,0.8183 0.2461,-0.248 z"
-       id="path861-1-3-6-4-9-5"
-       sodipodi:nodetypes="ccccccc" />
-    <path
-       style="color:#000000;display:inline;fill:#ffffff;-inkscape-stroke:none"
-       d="m -4962.9838,-2674.0281 -0.3327,0.3327 v 0.4961 l 0.3327,-0.3327 0.8203,0.8183 0.2461,-0.2481 z"
-       id="path861-1-3-6-4-9-5-3"
-       sodipodi:nodetypes="ccccccc" />
-    <g
        id="g10">
       <path
          id="path4979-3-4-4-7-5"
@@ -1506,15 +1321,6 @@
            style="font-size:0.972222px;text-align:start;text-anchor:start"
            id="tspan95261">Stables</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.16667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
-       id="loop-text"><textPath
-         xlink:href="#loop-path"
-         id="textPath3"
-         startOffset="13"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
-         dy="0.19 0 0 0">Loop Road</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1536,22 +1342,6 @@
        xlink:href="#sand-beach-path"
        id="sand-beach-path_color"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#276d4b;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <g
-       id="sand-beach-path_bw"
-       style="display:inline">
-    <use
-       x="0"
-       y="0"
-       xlink:href="#sand-beach-path"
-       id="sand-beach-path_bw-1"
-         style="display:inline;fill:none;fill-rule:evenodd;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#sand-beach-path"
-       id="sand-beach-path_bw-2"
-         style="display:none;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.45;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
     <path
        style="color:#000000;display:inline;fill:#ffffff;fill-opacity:0.847059;fill-rule:evenodd;stroke-width:0.994759;-inkscape-stroke:none"
        d="m 69.497271,56.354084 h -1.3332 v 1.978894 h 1.3332 z"
@@ -1568,57 +1358,6 @@
        xlink:href="#sand-beach-path-connector"
        id="sand-beach-path-connector_color"
        style="display:inline;fill:none;stroke:#276d4b;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" />
-    <g
-       id="sand-beach-path-connector_bw"
-       style="display:inline">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#sand-beach-path-connector"
-         id="sand-beach-path-connector_bw-1"
-         style="display:inline;fill:none;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" />
-        <desc
-           id="desc1">B&amp;W</desc>
-      <use
-         x="0"
-         y="0"
-         xlink:href="#sand-beach-path-connector"
-         id="sand-beach-path-connector_bw-2"
-         style="display:none;fill:none;stroke:#ffffff;stroke-width:0.45;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1">
-        <desc
-           id="desc2">B&amp;W</desc>
-      </use>
-    </g>
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 71.49708,66.3322 H 70.1639 v 1.333179"
-       id="path861-1-2"
-       sodipodi:nodetypes="ccc"
-       transform="translate(-0.067698,3.265302)" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 74.554,63.3897 0.9427,0.9427 0.9427,-0.9427"
-       id="path861-1"
-       sodipodi:nodetypes="ccc"
-       transform="rotate(-90,70.839735,62.323365)" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 74.554,63.3897 0.9427,0.9427 0.9427,-0.9427"
-       id="path861-1-4"
-       sodipodi:nodetypes="ccc"
-       transform="translate(-5.4760344e-7,-2.0238033)" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 74.554,63.3897 0.9427,0.9427 0.9427,-0.9427"
-       id="path861-1-4-9"
-       sodipodi:nodetypes="ccc"
-       transform="translate(-5.4760344e-7,1.6877582)" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 74.554,63.3897 0.9427,0.9427 0.9427,-0.9427"
-       id="path861-1-4-9-0-2"
-       sodipodi:nodetypes="ccc"
-       transform="matrix(1,0,0,-1,-6.666,126.67712)" />
     <path
        id="path4979-3-4-4-0-5-8"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#276d4b;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1653,21 +1392,6 @@
          sodipodi:role="line"
          style="font-size:0.972222px;text-align:start;text-anchor:start"
          id="tspan56045-6-1-1-3">Fabbri</tspan></text>
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m -4948.6519,-2674.6682 v 1.3332 h 1.3331"
-       id="path861-1-3-6-7"
-       sodipodi:nodetypes="ccc"
-       transform="translate(5022.7157,2742.9618)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
-       id="sand-beach-text"><textPath
-         xlink:href="#sand-beach-path"
-         id="textPath5"
-         startOffset="87"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;image-rendering:auto"
-         dy="0.19 0 0 0">Sand Beach</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1688,33 +1412,6 @@
        xlink:href="#blackwoods-path"
        id="blackwoods-path_color"
        style="display:inline;fill-rule:evenodd;stroke:#f3008e;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <g
-       id="blackwoods-path_bw">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#blackwoods-path"
-         id="blackwoods-path_bw-1"
-         style="display:inline;fill-rule:evenodd;stroke:#000000;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#blackwoods-path"
-         id="blackwoods-path_bw-2"
-         style="display:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.56;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0, 1;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 68.1641,58.66628 V 57.3331 h -1.333179"
-       id="path861-1-2-78-2"
-       sodipodi:nodetypes="ccc"
-       transform="translate(-3025.8046,-5.4823943)" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 76.4394,49.61 75.4967,48.6673 74.554,49.61"
-       id="path861-1-2-78-8"
-       sodipodi:nodetypes="ccc"
-       transform="translate(-3029.8157,-3.9995998)" />
     <text
        id="text1651-9-4-8-5-1-1-9-39-9-9-0"
        y="72.36084"
@@ -1737,32 +1434,6 @@
        d="m -2965.1225,70.860307 0.9424,0.942786"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <path
-       style="color:#000000;fill:#ffffff;-inkscape-stroke:none"
-       d="m -2963.5576,41.3347 -0.6666,0.6666 1.0664,1.066406 0.248,-0.246094 -0.8203,-0.820312 0.6666,-0.6666 z"
-       id="path861-1-2-78-8-6"
-       sodipodi:nodetypes="ccccccc" />
-    <path
-       style="color:#000000;fill:#ffffff;-inkscape-stroke:none"
-       d="m -2972.2307,45.576821 0.5801,0.5801 1.0664,-1.0665 -0.2461,-0.246 -0.8203,0.8183 -0.4192,-0.4192 z"
-       id="path5528"
-       sodipodi:nodetypes="ccccccc" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 68.578272,62.746772 67.1642,61.3327 65.750128,62.746772"
-       id="path861-1-2-78"
-       sodipodi:nodetypes="ccc"
-       transform="rotate(135,-1448.7633,-571.23832)"
-       sodipodi:insensitive="true" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
-       id="blackwoods-text"><textPath
-         xlink:href="#blackwoods-path"
-         id="textPath4"
-         startOffset="37"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
-         dy="0.19 0 0 0">Blackwoods</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1783,21 +1454,6 @@
        xlink:href="#jordan-pond-path"
        id="jordan-pond-path_color"
        style="fill:none;fill-rule:evenodd;stroke:#9180e7;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <g
-       id="jordan-pond-path_bw">
-    <use
-       x="0"
-       y="0"
-       xlink:href="#jordan-pond-path"
-       id="jordan-pond-path_bw-1"
-         style="fill:none;fill-rule:evenodd;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#jordan-pond-path"
-       id="jordan-pond-path_bw-2"
-         style="display:none;fill:none;fill-rule:evenodd;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.335, 2.01;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
     <g
        id="g8">
       <path
@@ -1823,15 +1479,6 @@
            style="font-size:0.972222px;text-align:start;text-anchor:start"
            id="tspan90740">Pond</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
-       id="jordan-pond-text"><textPath
-         xlink:href="#jordan-pond-path"
-         id="textPath6"
-         startOffset="17"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;image-rendering:auto"
-         dy="0.19 0 0 0">Jordan Pond</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2024,6 +1671,195 @@
     <use
        x="0"
        y="0"
+       xlink:href="#bar-harbor-path"
+       id="bar-harbor-path_bw"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(5019.8157,2745)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="bar-harbor-text"
+       transform="translate(5019.8157,2745)"><textPath
+         xlink:href="#bar-harbor-path"
+         id="textPath1"
+         startOffset="54.200001"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
+         dy="0.25 0 0 0">Bar Harbor Road</textPath></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#trenton-path"
+       id="trenton-path_bw"
+       style="display:inline;fill-rule:evenodd;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(5019.8157,2745)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="trenton-text"
+       transform="translate(5019.8157,2745)"><textPath
+         xlink:href="#trenton-path"
+         id="textPath8"
+         startOffset="66"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;image-rendering:auto"
+         dy="0.25 0 0 0">Trenton</textPath></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#southwest-path"
+       id="southwest-path_bw"
+       style="display:inline;fill-rule:evenodd;stroke:#606060;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(5019.8157,2745)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="southwest-text"
+       transform="translate(5019.8157,2745)"><textPath
+         xlink:href="#southwest-path"
+         id="textPath44"
+         startOffset="104"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
+         dy="0.25 0 0 0">Southwest Harbor</textPath></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#tremont-path"
+       id="tremont-path_bw"
+       style="display:inline;fill-rule:evenodd;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(3029.8157)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="tremont-text"
+       transform="translate(3029.8157)"><textPath
+         xlink:href="#tremont-path"
+         id="textPath45"
+         startOffset="23"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;image-rendering:auto"
+         dy="0.25 0 0 0">Tremont</textPath></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#northeast-path"
+       id="northeast-path_bw"
+       style="display:inline;stroke:#404040;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(5019.8157,2745)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="northeast-text"
+       transform="translate(5019.8157,2745)"><textPath
+         xlink:href="#northeast-path"
+         id="textPath7"
+         startOffset="26.4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
+         dy="0.25 0 0 0">Northeast Harbor</textPath></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#schoodic-path"
+       id="schoodic-path_bw"
+       style="display:inline;fill-rule:evenodd;stroke:#000000;stroke-width:0.670002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(3029.8157,1555)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.16667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="schoodic-text"
+       transform="translate(3029.8133,1555)"><textPath
+         xlink:href="#schoodic-path"
+         id="textPath9"
+         startOffset="15"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
+         dy="0.25 0 0 0">Schoodic</textPath></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#loop-path"
+       id="loop-path_bw"
+       style="display:inline;fill-rule:evenodd;stroke:#606060;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(5019.8157,2745)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.16667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="loop-text"
+       transform="translate(5019.8157,2745)"><textPath
+         xlink:href="#loop-path"
+         id="textPath3"
+         startOffset="13"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
+         dy="0.19 0 0 0">Loop Road</textPath></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#sand-beach-path"
+       id="sand-beach-path_bw"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="sand-beach-path-connector_bw"
+       style="display:inline">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#sand-beach-path-connector"
+         id="sand-beach-path-connector_bw-1"
+         style="display:inline;fill:none;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" />
+      <desc
+         id="desc1">B&amp;W</desc>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#sand-beach-path-connector"
+         id="sand-beach-path-connector_bw-2"
+         style="display:none;fill:none;stroke:#ffffff;stroke-width:0.45;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1">
+        <desc
+           id="desc2">B&amp;W</desc>
+      </use>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="sand-beach-text"><textPath
+         xlink:href="#sand-beach-path"
+         id="textPath5"
+         startOffset="87"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;image-rendering:auto"
+         dy="0.25 0 0 0">Sand Beach</textPath></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#blackwoods-path"
+       id="blackwoods-path_bw"
+       style="display:inline;fill-rule:evenodd;stroke:#000000;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(3029.8157)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="blackwoods-text"
+       transform="translate(3029.8157)"><textPath
+         xlink:href="#blackwoods-path"
+         id="textPath4"
+         startOffset="37"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#ffffff;fill-opacity:1;image-rendering:auto"
+         dy="0.25 0 0 0">Blackwoods</textPath></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#jordan-pond-path"
+       id="jordan-pond-path_bw"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#c0c0c0;stroke-width:0.67;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(5019.8157,2745)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.694444px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104167"
+       id="jordan-pond-text"
+       transform="translate(5019.8157,2745)"><textPath
+         xlink:href="#jordan-pond-path"
+         id="textPath6"
+         startOffset="17"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;image-rendering:auto"
+         dy="0.25 0 0 0">Jordan Pond</textPath></text>
+    <use
+       x="0"
+       y="0"
        xlink:href="#eden-street"
        id="eden-street_bw"
        style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:0.67;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
@@ -2037,13 +1873,148 @@
          id="textPath2"
          startOffset="31.299999"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.694444px;font-family:Lato;-inkscape-font-specification:'Lato Bold';direction:ltr;fill:#000000;fill-opacity:1;image-rendering:auto"
-         dy="0.19 0 0 0">Eden Street</textPath></text>
+         dy="0.25 0 0 0">Eden Street</textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="arrows"
+     style="display:inline"
      sodipodi:insensitive="true">
+    <g
+       id="schoodic-arrows">
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 92.1212,26.6291 0.7071,0.707 0.707,-0.707"
+         id="path861-1-2-78-8-8-8-4-0-3"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 92.1212,30.2954 0.7071,0.707 0.707,-0.707"
+         id="path861-1-2-78-8-8-8-4-0-3-0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 98.2015,24.2959 -0.707,0.7071 0.707,0.707"
+         id="path861-1-2-78-8-8-8-4-0-3-0-9"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 103.5344,29.3763 -0.7071,-0.707 -0.707,0.707"
+         id="path861-1-2-78-8-8-8-4-0-3-0-9-9"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 95.121,34.0426 0.707,-0.7071 -0.707,-0.707"
+         id="path861-1-2-78-8-8-8-4-0-3-0-9-9-9"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 99.7872,34.0426 0.707,-0.7071 -0.707,-0.707"
+         id="path861-1-2-78-8-8-8-4-0-3-0-9-9-9-5"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="loop-arrows">
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m -4948.6519,-2674.6682 v 1.3332 h 1.3331"
+         id="path861-1-3-6"
+         sodipodi:nodetypes="ccc"
+         transform="translate(5019.2931,2746.8578)" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m -4959.708,-2671.9446 -0.9427,0.9427 0.9427,0.9427"
+         id="path861-1-3-6-4-9"
+         sodipodi:nodetypes="ccc"
+         transform="translate(5023.5657,2746.3332)" />
+      <path
+         style="color:#000000;fill:#ffffff;-inkscape-stroke:none"
+         d="m -4962.9844,-2683.582 -0.3327,0.3327 v 0.4961 l 0.3327,-0.3327 0.8203,0.8183 0.2461,-0.248 z"
+         id="path861-1-3-6-4-9-5-7"
+         transform="translate(5019.8157,2743.1471)"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         style="color:#000000;fill:#ffffff;-inkscape-stroke:none"
+         d="m -4962.9844,-2688.9141 -0.3327,0.3327 v 0.4961 l 0.3339,-0.3339 0.8191,0.8196 0.2461,-0.2481 z"
+         id="path861-1-3-6-4-9-5-78"
+         sodipodi:nodetypes="ccc"
+         transform="translate(5019.8157,2741.8585)" />
+      <path
+         style="color:#000000;display:inline;fill:#ffffff;-inkscape-stroke:none"
+         d="m -4962.9844,-2679.5388 -0.3327,0.3327 v 0.4961 l 0.3327,-0.3327 0.8203,0.8183 0.2461,-0.248 z"
+         id="path861-1-3-6-4-9-5"
+         sodipodi:nodetypes="ccccccc"
+         transform="translate(5019.8157,2745)" />
+      <path
+         style="color:#000000;display:inline;fill:#ffffff;-inkscape-stroke:none"
+         d="m -4962.9838,-2674.0281 -0.3327,0.3327 v 0.4961 l 0.3327,-0.3327 0.8203,0.8183 0.2461,-0.2481 z"
+         id="path861-1-3-6-4-9-5-3"
+         sodipodi:nodetypes="ccccccc"
+         transform="translate(5019.8157,2745)" />
+    </g>
+    <g
+       id="sand-beach-arrows">
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 71.429382,69.597502 h -1.33318 v 1.333179"
+         id="path861-1-2"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 71.90607,58.609104 0.9427,-0.9427 -0.9427,-0.9427"
+         id="path861-1"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 74.553999,61.365897 0.9427,0.9427 0.9427,-0.9427"
+         id="path861-1-4"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 74.553999,65.077458 0.9427,0.9427 0.9427,-0.9427"
+         id="path861-1-4-9"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 67.888,63.28742 0.9427,-0.9427 0.9427,0.9427"
+         id="path861-1-4-9-0-2"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 74.0638,68.2936 v 1.3332 h 1.3331"
+         id="path861-1-3-6-7"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="blackwoods-arrows">
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 72.1752,53.183886 v -1.33318 h -1.333179"
+         id="path861-1-2-78-2"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 76.4394,45.6104 75.4967,44.6677 74.554,45.6104"
+         id="path861-1-2-78-8"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="color:#000000;display:inline;fill:#ffffff;-inkscape-stroke:none"
+         d="m 66.2581,41.3347 -0.6666,0.6666 1.0664,1.066406 0.248,-0.246094 -0.8203,-0.820312 0.6666,-0.6666 z"
+         id="path861-1-2-78-8-6"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         style="color:#000000;display:inline;fill:#ffffff;-inkscape-stroke:none"
+         d="m 57.585,45.576821 0.5801,0.5801 1.0664,-1.0665 -0.2461,-0.246 -0.8203,0.8183 -0.4192,-0.4192 z"
+         id="path5528"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 59.834723,53.389037 h 1.9998 v -1.9998"
+         id="path861-1-2-78"
+         sodipodi:nodetypes="ccc"
+         sodipodi:insensitive="true" />
+    </g>
     <g
        id="eden-arrows">
       <path
